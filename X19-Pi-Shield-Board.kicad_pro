@@ -69,13 +69,7 @@
           "thermal_relief_spoke_width": 0.5
         }
       },
-      "diff_pair_dimensions": [
-        {
-          "gap": 0.0,
-          "via_gap": 0.0,
-          "width": 0.0
-        }
-      ],
+      "diff_pair_dimensions": [],
       "drc_exclusions": [],
       "meta": {
         "version": 2
@@ -209,10 +203,7 @@
           "td_width_to_size_filter_ratio": 0.9
         }
       ],
-      "track_widths": [
-        0.0,
-        2.0
-      ],
+      "track_widths": [],
       "tuning_pattern_settings": {
         "diff_pair_defaults": {
           "corner_radius_percentage": 80,
@@ -239,12 +230,7 @@
           "spacing": 0.6
         }
       },
-      "via_dimensions": [
-        {
-          "diameter": 0.0,
-          "drill": 0.0
-        }
-      ],
+      "via_dimensions": [],
       "zones_allow_external_fillets": false
     },
     "ipc2581": {
@@ -499,14 +485,7 @@
   },
   "legacy": [],
   "libraries": {
-    "pinned_footprint_libs": [
-      "rov_connectors",
-      "rov_logic",
-      "rov_passives",
-      "rov_power",
-      "rov_sensors",
-      "rov_mech"
-    ],
+    "pinned_footprint_libs": [],
     "pinned_symbol_libs": []
   },
   "meta": {
@@ -533,13 +512,6 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
-      },
-      {
-        "name": "CAN",
-        "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
-        "schematic_color": "rgb(255, 2, 5)",
-        "tuning_profile": ""
       }
     ],
     "meta": {
@@ -547,12 +519,7 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": [
-      {
-        "netclass": "CAN",
-        "pattern": "/CAN*"
-      }
-    ]
+    "netclass_patterns": []
   },
   "pcbnew": {
     "last_paths": {
@@ -560,7 +527,6 @@
       "netlist": "",
       "plot": "",
       "specctra_dsn": "",
-      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -679,19 +645,14 @@
     "top_level_sheets": [
       {
         "filename": "X19-Pi-Shield-Board.kicad_sch",
-        "name": "Root",
-        "uuid": "00000000-0000-0000-0000-000060e6118b"
+        "name": "X19-Pi-Shield-Board",
+        "uuid": "00000000-0000-0000-0000-000000000000"
       }
     ],
-    "used_designators": "SW1,H1-3,J2-8,R2,R4-5,#PWR4,#PWR7-8,#PWR11,#PWR20-40,C6-19,Y2,TP1-5",
+    "used_designators": "",
     "variants": []
   },
-  "sheets": [
-    [
-      "00000000-0000-0000-0000-000060e6118b",
-      "Root"
-    ]
-  ],
+  "sheets": [],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
