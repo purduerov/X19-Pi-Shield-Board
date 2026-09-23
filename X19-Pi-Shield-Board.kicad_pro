@@ -649,10 +649,27 @@
         "uuid": "00000000-0000-0000-0000-000000000000"
       }
     ],
-    "used_designators": "",
+    "used_designators": "JP1,IC1,CR1-3,C1-18,C20-25,SW1,U1,U3-6,Y1-3,D1-4,#PWR1-9,#PWR11-65,H1-4,R1-15,J2-3,J8-9",
     "variants": []
   },
-  "sheets": [],
+  "sheets": [
+    [
+      "00000000-0000-0000-0000-000060e6118b",
+      "Root"
+    ],
+    [
+      "b5d0b18d-9e9a-40ab-b75b-13e0ef1ee8a4",
+      "MCU"
+    ],
+    [
+      "6e1cf58b-0177-4d78-b4d6-5b18f6615062",
+      "Power"
+    ],
+    [
+      "4e72597d-5f14-4a5c-8875-e07f4e1002f7",
+      "CAN"
+    ]
+  ],
   "text_variables": {},
   "tuning_profiles": {
     "meta": {
