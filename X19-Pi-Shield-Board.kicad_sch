@@ -3508,7 +3508,7 @@
 	)
 	(text "TVS Close to CAN\nconnector"
 		(exclude_from_sim no)
-		(at 90.17 190.5 0)
+		(at 44.45 116.332 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3752,16 +3752,6 @@
 	)
 	(wire
 		(pts
-			(xy 41.91 120.65) (xy 41.91 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "32541364-6bb2-4fad-a308-6cd68cba6863")
-	)
-	(wire
-		(pts
 			(xy 137.16 77.47) (xy 142.24 77.47)
 		)
 		(stroke
@@ -3819,16 +3809,6 @@
 			(type default)
 		)
 		(uuid "48d7f7f4-84d0-4592-9cd0-9b7fbc6b34ba")
-	)
-	(wire
-		(pts
-			(xy 76.2 182.88) (xy 86.36 182.88)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4ebed03f-769f-46a1-8d3d-130787d3bd92")
 	)
 	(wire
 		(pts
@@ -4062,16 +4042,6 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 185.42) (xy 86.36 185.42)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9fb1b9d7-751b-4cae-b3b1-8640b1bcdee4")
-	)
-	(wire
-		(pts
 			(xy 27.94 148.59) (xy 29.21 148.59)
 		)
 		(stroke
@@ -4172,7 +4142,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 101.6) (xy 44.45 101.6)
+			(xy 38.1 101.6) (xy 46.99 101.6)
 		)
 		(stroke
 			(width 0)
@@ -4189,26 +4159,6 @@
 			(type default)
 		)
 		(uuid "cebbecb5-0f3d-4742-9158-9d568eb549c1")
-	)
-	(wire
-		(pts
-			(xy 41.91 119.38) (xy 38.1 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cf4d2e66-c5f1-4416-b6a5-4aa814909853")
-	)
-	(wire
-		(pts
-			(xy 38.1 116.84) (xy 48.26 116.84)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d118b9db-486b-4131-a73a-a885e2746123")
 	)
 	(wire
 		(pts
@@ -4252,7 +4202,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 104.14) (xy 44.45 104.14)
+			(xy 38.1 104.14) (xy 46.99 104.14)
 		)
 		(stroke
 			(width 0)
@@ -4270,26 +4220,6 @@
 		)
 		(uuid "f0b4f86c-adb4-49f1-8983-41992c81c257")
 	)
-	(wire
-		(pts
-			(xy 76.2 180.34) (xy 86.36 180.34)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "fce958e3-d1b9-4a77-9d76-299ed3a2ec91")
-	)
-	(label "+5V_UNFILT"
-		(at 48.26 116.84 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "72672ff4-a283-4292-a96a-7f0998ea6fa6")
-	)
 	(global_label "CS_PI"
 		(shape input)
 		(at 27.94 146.05 180)
@@ -4303,30 +4233,6 @@
 		(uuid "00a84319-538b-4575-943c-9a481058e86d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 21.8178 146.05 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "CAN-"
-		(shape input)
-		(at 77.47 182.88 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "13046fbb-0bd8-4c58-8913-12da631dba54")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 77.47 190.4725 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4530,30 +4436,6 @@
 			)
 		)
 	)
-	(global_label "GND"
-		(shape input)
-		(at 85.09 185.42 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify right)
-		)
-		(uuid "4098b7d0-2146-4776-aed1-a2d0124bfbd8")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 80.1289 185.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "TXD"
 		(shape input)
 		(at 25.4 38.1 180)
@@ -4695,30 +4577,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-	)
-	(global_label "CAN+"
-		(shape input)
-		(at 81.28 180.34 90)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "5fb87f40-8698-42f2-b2d6-0d444924afb7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 81.28 172.7475 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)
@@ -4988,7 +4846,7 @@
 	)
 	(global_label "CAN+"
 		(shape input)
-		(at 44.45 101.6 0)
+		(at 44.45 101.6 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -4998,7 +4856,7 @@
 		)
 		(uuid "d2cfcac9-3504-4a0d-b677-e8b2a01ddaa6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 52.0425 101.6 0)
+			(at 44.45 94.0075 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5060,17 +4918,17 @@
 	)
 	(global_label "CAN-"
 		(shape input)
-		(at 44.45 104.14 0)
+		(at 44.45 104.14 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "fec79575-e078-487d-aa11-f3888f926f11")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 52.0425 104.14 0)
+			(at 44.45 111.7325 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5078,7 +4936,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 	)
@@ -5335,170 +5193,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Generic:Conn_01x02")
-		(at 33.02 116.84 0)
-		(mirror y)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "1adbdedf-2681-482a-9b67-de6d3a323d5c")
-		(property "Reference" "J2"
-			(at 32.512 110.998 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x02"
-			(at 37.084 113.03 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "rov_connectors:0436500200"
-			(at 33.02 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 33.02 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 33.02 116.84 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "30156174-6c93-4221-916b-feac1a244e53")
-		)
-		(pin "1"
-			(uuid "b3398d3e-1794-426e-a75c-f19f1f818b2d")
-		)
-		(instances
-			(project "X19-Pi-Shield-Board"
-				(path "/00000000-0000-0000-0000-000060e6118b"
-					(reference "J2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "board_control_manual_lib:ESD2CAN24DBZRQ1")
-		(at 76.2 182.88 180)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "1b35b83e-87e9-4dbd-8de4-577d17db790c")
-		(property "Reference" "CR2"
-			(at 64.77 176.53 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Value" "ESD2CAN24DBZRQ1"
-			(at 64.77 173.99 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.524 1.524)
-				)
-			)
-		)
-		(property "Footprint" "SOT-23_DBZ_TEX"
-			(at 80.264 188.976 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-		(property "Datasheet" "ESD2CAN24DBZRQ1"
-			(at 78.232 186.69 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(italic yes)
-				)
-			)
-		)
-		(property "Description" ""
-			(at 76.2 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "38bb3771-d192-4091-882b-024cfe51427f")
-		)
-		(pin "2"
-			(uuid "0d14961d-3afd-45bd-89ca-8f39e3772025")
-		)
-		(pin "1"
-			(uuid "cf602697-8822-4eff-86c9-c907198d814a")
-		)
-		(instances
-			(project "X19-Pi-Shield-Board"
-				(path "/00000000-0000-0000-0000-000060e6118b"
-					(reference "CR2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R_US")
 		(at 107.95 123.19 0)
 		(unit 1)
@@ -5654,91 +5348,6 @@
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b"
 					(reference "H4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector_Generic:Conn_01x03")
-		(at 91.44 182.88 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2daf40d9-aee5-4dcd-9153-43101a55f2a0")
-		(property "Reference" "J7"
-			(at 93.98 181.6099 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Conn_01x03"
-			(at 93.98 184.1499 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Oscillator:Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm"
-			(at 91.44 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 91.44 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 91.44 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "9508d9b8-e4d9-4662-a56b-a42604888a02")
-		)
-		(pin "2"
-			(uuid "bbd991ac-5ad7-4bcf-8964-25cd99669c19")
-		)
-		(pin "3"
-			(uuid "f5dcd6aa-ad86-4c77-873f-a13ce330fe57")
-		)
-		(instances
-			(project "X19-Pi-Shield-Board"
-				(path "/00000000-0000-0000-0000-000060e6118b"
-					(reference "J7")
 					(unit 1)
 				)
 			)
@@ -6061,6 +5670,86 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 69.85 104.14 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4545d33b-d672-499e-a31c-1cbe76932615")
+		(property "Reference" "#PWR062"
+			(at 69.85 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 69.85 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 69.85 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 69.85 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 69.85 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "9bff2e65-71a9-4ba0-bb23-4092821266ad")
+		)
+		(instances
+			(project "X19-Pi-Shield-Board"
+				(path "/00000000-0000-0000-0000-000060e6118b"
+					(reference "#PWR062")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 133.35 162.56 270)
 		(unit 1)
@@ -6227,6 +5916,91 @@
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b"
 					(reference "D1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "board_control_manual_lib:ESD2CAN24DBZRQ1")
+		(at 46.99 104.14 0)
+		(mirror x)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "4b586ce7-934b-4256-b9c6-b5d86f1de59b")
+		(property "Reference" "CR2"
+			(at 61.468 97.79 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Value" "ESD2CAN24DBZRQ1"
+			(at 61.468 95.25 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.524 1.524)
+				)
+			)
+		)
+		(property "Footprint" "SOT-23_DBZ_TEX"
+			(at 42.926 110.236 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Datasheet" "ESD2CAN24DBZRQ1"
+			(at 44.958 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(italic yes)
+				)
+			)
+		)
+		(property "Description" ""
+			(at 46.99 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "dd7eecb0-c0a7-469c-8367-20f2995f1e30")
+		)
+		(pin "2"
+			(uuid "6ae2eb64-07e0-457d-8c7a-595c74c71a6d")
+		)
+		(pin "1"
+			(uuid "be2cf5b6-0ac4-4378-bbcc-86aec93c9c99")
+		)
+		(instances
+			(project "X19-Pi-Shield-Board"
+				(path "/00000000-0000-0000-0000-000060e6118b"
+					(reference "CR2")
 					(unit 1)
 				)
 			)
@@ -8041,162 +7815,6 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 41.91 120.65 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "e85abbd5-6a92-46db-b7f3-7d279511cd73")
-		(property "Reference" "#PWR08"
-			(at 41.91 127 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 45.72 122.428 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 41.91 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 41.91 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 41.91 120.65 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "7f671a07-571c-45d7-bcac-d3ca43c5c9d4")
-		)
-		(instances
-			(project "X19-Pi-Shield-Board"
-				(path "/00000000-0000-0000-0000-000060e6118b"
-					(reference "#PWR08")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 53.34 182.88 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "e993cebb-d951-4a05-9a99-94b8ddd9ad9c")
-		(property "Reference" "#PWR062"
-			(at 53.34 189.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 53.34 187.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 53.34 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 53.34 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 53.34 182.88 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "f7e9ea7e-a193-4178-af61-39ab0e804334")
-		)
-		(instances
-			(project "X19-Pi-Shield-Board"
-				(path "/00000000-0000-0000-0000-000060e6118b"
-					(reference "#PWR062")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Connector:Raspberry_Pi_4")
 		(at 62.23 53.34 0)
 		(unit 1)
@@ -8218,7 +7836,7 @@
 				)
 			)
 		)
-		(property "Value" "Raspberry_Pi_4"
+		(property "Value" "Raspberry_Pi_5"
 			(at 62.23 25.4 0)
 			(show_name no)
 			(do_not_autoplace no)
