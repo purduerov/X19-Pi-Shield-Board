@@ -10,23 +10,22 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 9,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J2 J3,Conn_01x02,0436500200,2, ,,,,,,,,,,,,,
 10,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x03,J6,Conn_01x03,Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm,1, ,,,,,,,,,,,,,
 11,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04,J4 J5,Conn_01x04,Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm,2, ,,,,,,,,,,,,,
-12,"Generic connector, single row, 01x04, script generated",Conn_01x04_Pin,J9,Conn_01x04_Pin,,1, ,,,,,,,,,,,,,
-13,"Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x05_Odd_Even,J8,Conn_02x05_Odd_Even,Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm,1, ,,,,,,,,,,,,,
-14,Raspberry Pi 4 Model B,Raspberry_Pi_4,J1,Raspberry_Pi_4,PinSocket_2x20_P2.54mm_Vertical,1, ,https://datasheets.raspberrypi.com/rpi4/raspberry-pi-4-datasheet.pdf,,,,,,,,,,,,
-15,"Jumper, 2-pole, open",Jumper_2_Open,JP1,Jumper_2_Open,,1, ,,,,,,,,,,,,,
-16,"Resistor, small US symbol",R_Small_US,R1,1m,D0008A-IPC_A,1, ,,,,,,,,,,,,,
-17,"Resistor, US symbol",R_US,R12 R13,60,,2, ,,,,,,,,,,,,,
-18,"Resistor, US symbol",R_US,R7 R9,1K,,2, ,,,,,,,,,,,,,
-19,"Resistor, US symbol",R_US,R6 R8,2.2K,,2, ,,,,,,,,,,,,,
-20,"Resistor, small US symbol",R_Small_US,R2 R3 R4,4.7k,,3, ,,,,,,,,,,,,,
-21,"Resistor, US symbol",R_US,R5 R10,10k,R_Array_SIP4,2, ,,,,,,,,,,,,,
-22,"Push button switch, generic, two pins",SW_Push,SW1,SW_Push,SW_NKK_GW12LJP,1, ,,,,,,,,,,,,,
-23,"3-in-1 sensor, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8",BME280,U2,BME280,Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering,1, ,https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme280-ds002.pdf,,,,,,,,,,,,
-24,,INA237AIDGSR,U3,INA237AIDGSR,VSSOP_IDGSR_TEX,1, ,https://www.ti.com/lit/gpn/ina237,,,,,,,,,,,,
-25,,MCP2518FDT-E_QBB,U5,MCP2518FDT-E/QBB,VDFN14_QBB_MCH,1, ,MCP2518FDT-E/QBB,,,,,,,,,,,,
-26,"300mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, SOT-23",MIC5504-3.3YM5,U1,MIC5504-3.3YM5,SOT-23-5,1, ,http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf,,,,,,,,,,,,
-27,,TCAN1044VDRQ1,U4 U6,TCAN1044VDRQ1,D0008A-IPC_A,2, ,https://www.ti.com/lit/gpn/tcan1044-q1,,,,,,,,,,,,
-28,The sub miniature ECX-32 is a compact SMD Crystal.,ECS-120-18-33-JGN-TR,Y1 Y3,ECS-120-18-33-JGN-TR,XTAL_ECS-120-18-33-JGN-TR,2, ,,,ECS INC,SMD-4 ECX,,Manufacturer recommendations,ECX-32,Good,,,,,
+12,"Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x05_Odd_Even,J8,Conn_02x05_Odd_Even,Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm,1, ,,,,,,,,,,,,,
+13,Raspberry Pi 4 Model B,Raspberry_Pi_4,J1,Raspberry_Pi_4,PinSocket_2x20_P2.54mm_Vertical,1, ,https://datasheets.raspberrypi.com/rpi4/raspberry-pi-4-datasheet.pdf,,,,,,,,,,,,
+14,"Jumper, 2-pole, open",Jumper_2_Open,JP1,Jumper_2_Open,,1, ,,,,,,,,,,,,,
+15,"Resistor, small US symbol",R_Small_US,R1,1m,D0008A-IPC_A,1, ,,,,,,,,,,,,,
+16,"Resistor, US symbol",R_US,R12 R13,60,,2, ,,,,,,,,,,,,,
+17,"Resistor, US symbol",R_US,R7 R9,1K,,2, ,,,,,,,,,,,,,
+18,"Resistor, US symbol",R_US,R6 R8,2.2K,,2, ,,,,,,,,,,,,,
+19,"Resistor, small US symbol",R_Small_US,R2 R3 R4,4.7k,,3, ,,,,,,,,,,,,,
+20,"Resistor, US symbol",R_US,R5 R10,10k,R_Array_SIP4,2, ,,,,,,,,,,,,,
+21,"Push button switch, generic, two pins",SW_Push,SW1,SW_Push,SW_NKK_GW12LJP,1, ,,,,,,,,,,,,,
+22,"3-in-1 sensor, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8",BME280,U2,BME280,Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering,1, ,https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme280-ds002.pdf,,,,,,,,,,,,
+23,,INA237AIDGSR,U3,INA237AIDGSR,VSSOP_IDGSR_TEX,1, ,https://www.ti.com/lit/gpn/ina237,,,,,,,,,,,,
+24,,MCP2518FDT-E_QBB,U5,MCP2518FDT-E/QBB,VDFN14_QBB_MCH,1, ,MCP2518FDT-E/QBB,,,,,,,,,,,,
+25,"300mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, SOT-23",MIC5504-3.3YM5,U1,MIC5504-3.3YM5,SOT-23-5,1, ,http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf,,,,,,,,,,,,
+26,,TCAN1044VDRQ1,U4 U6,TCAN1044VDRQ1,D0008A-IPC_A,2, ,https://www.ti.com/lit/gpn/tcan1044-q1,,,,,,,,,,,,
+27,The sub miniature ECX-32 is a compact SMD Crystal.,ECS-120-18-33-JGN-TR,Y1 Y3,ECS-400-18-33-JGN-TR,XTAL_ECS-120-18-33-JGN-TR,2, ,,,ECS INC,SMD-4 ECX,,Manufacturer recommendations,ECX-32,Good,,,,,
 
 
 
@@ -36,11 +35,11 @@ Project info:
 Schematic:,X19-Pi-Shield-Board
 Variant:,default
 Revision:,
-Date:,2026-09-26_17-22-53
+Date:,2026-09-26_17-29-33
 KiCad Version:,10.0.5-unknown-202607221313~667fa36054~ubuntu25.10.1
 Statistics:
-Component Groups:,28
-Component Count:,58
-Fitted Components:,58
+Component Groups:,27
+Component Count:,57
+Fitted Components:,57
 Number of PCBs:,1
-Total Components:,58
+Total Components:,57
