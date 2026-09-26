@@ -2758,6 +2758,10 @@
 		(uuid "e0a6a8c7-206e-442c-9d68-82babcbf689e")
 	)
 	(no_connect
+		(at 199.39 78.74)
+		(uuid "e78ef8f1-9aef-4ad9-9e7d-e3c8fa522d75")
+	)
+	(no_connect
 		(at 181.61 35.56)
 		(uuid "efed23a2-204e-460b-b737-ad9a4c49d460")
 	)
