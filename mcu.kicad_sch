@@ -2781,16 +2781,6 @@
 	)
 	(wire
 		(pts
-			(xy 199.39 68.58) (xy 201.93 68.58)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0cdb569e-18bf-4a57-b866-cf8ae1725c83")
-	)
-	(wire
-		(pts
 			(xy 163.83 33.02) (xy 166.37 33.02)
 		)
 		(stroke
@@ -3191,16 +3181,6 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 81.28) (xy 199.39 81.28)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "93a516b9-cccc-46cc-991d-2ea6a106b3ab")
-	)
-	(wire
-		(pts
 			(xy 133.35 101.6) (xy 133.35 104.14)
 		)
 		(stroke
@@ -3281,16 +3261,6 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 78.74) (xy 199.39 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ad7fa4b9-3ead-4198-aa95-97bf6ff529b2")
-	)
-	(wire
-		(pts
 			(xy 201.93 60.96) (xy 199.39 60.96)
 		)
 		(stroke
@@ -3368,16 +3338,6 @@
 			(type default)
 		)
 		(uuid "bd5fd22e-deb5-4009-9abe-560c60234697")
-	)
-	(wire
-		(pts
-			(xy 199.39 73.66) (xy 201.93 73.66)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "bd93c5bf-3340-4e1e-9c9f-1cdee074c4bc")
 	)
 	(wire
 		(pts
@@ -3849,30 +3809,6 @@
 			)
 		)
 	)
-	(global_label "CS_STM"
-		(shape input)
-		(at 201.93 68.58 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify left)
-		)
-		(uuid "696b33c6-592f-45aa-9d65-66a27b37363e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 209.4552 68.58 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "STBY_STM"
 		(shape input)
 		(at 154.94 81.28 180)
@@ -4017,30 +3953,6 @@
 			)
 		)
 	)
-	(global_label "MOSI_STM"
-		(shape input)
-		(at 201.93 78.74 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify left)
-		)
-		(uuid "b6294960-fb26-4c1f-8715-85cc9c5984b4")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 211.1485 78.74 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
 	(global_label "NRST"
 		(shape input)
 		(at 135.89 101.6 0)
@@ -4078,54 +3990,6 @@
 		(uuid "cd41df1a-d7e1-4b6a-9d88-81c274147503")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 130.9692 67.31 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "MISO_STM"
-		(shape input)
-		(at 201.93 81.28 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify left)
-		)
-		(uuid "d6fa995b-3cd1-4c58-91b0-f03ee0eea157")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 211.1485 81.28 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-	)
-	(global_label "SCLK_STM"
-		(shape input)
-		(at 201.93 73.66 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify left)
-		)
-		(uuid "d73c06fa-fa63-4a3a-9d5a-50111fd959e4")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 211.2937 73.66 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
