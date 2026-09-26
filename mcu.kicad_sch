@@ -4337,7 +4337,7 @@
 				)
 			)
 		)
-		(property "Value" "ECS-120-18-33-JGN-TR"
+		(property "Value" "ECS-400-18-33-JGN-TR"
 			(at 240.03 105.41 0)
 			(show_name no)
 			(do_not_autoplace no)

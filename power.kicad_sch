@@ -5,7 +5,7 @@
 	(uuid "342844cb-5d52-4bf0-ad8c-5315bfe6da39")
 	(paper "A4")
 	(lib_symbols
-		(symbol "Connector:Conn_01x04_Pin"
+		(symbol "Connector_Generic:Conn_01x02"
 			(pin_names
 				(offset 1.016)
 				(hide yes)
@@ -16,7 +16,7 @@
 			(in_pos_files yes)
 			(duplicate_pin_numbers_are_jumpers no)
 			(property "Reference" "J"
-				(at 0 5.08 0)
+				(at 0 2.54 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -25,8 +25,8 @@
 					)
 				)
 			)
-			(property "Value" "Conn_01x04_Pin"
-				(at 0 -7.62 0)
+			(property "Value" "Conn_01x02"
+				(at 0 -5.08 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(effects
@@ -57,21 +57,11 @@
 					)
 				)
 			)
-			(property "Description" "Generic connector, single row, 01x04, script generated"
+			(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
 				(hide yes)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-				)
-			)
-			(property "ki_locked" ""
-				(at 0 0 0)
-				(show_name no)
-				(do_not_autoplace no)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -100,91 +90,32 @@
 					)
 				)
 			)
-			(symbol "Conn_01x04_Pin_1_1"
+			(symbol "Conn_01x02_1_1"
 				(rectangle
-					(start 0.8636 2.667)
-					(end 0 2.413)
+					(start -1.27 1.27)
+					(end 1.27 -3.81)
 					(stroke
-						(width 0.1524)
+						(width 0.254)
 						(type default)
 					)
 					(fill
-						(type outline)
+						(type background)
 					)
 				)
 				(rectangle
-					(start 0.8636 0.127)
+					(start -1.27 0.127)
 					(end 0 -0.127)
 					(stroke
 						(width 0.1524)
 						(type default)
 					)
 					(fill
-						(type outline)
+						(type none)
 					)
 				)
 				(rectangle
-					(start 0.8636 -2.413)
+					(start -1.27 -2.413)
 					(end 0 -2.667)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(rectangle
-					(start 0.8636 -4.953)
-					(end 0 -5.207)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 2.54) (xy 0.8636 2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 0) (xy 0.8636 0)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -2.54) (xy 0.8636 -2.54)
-					)
-					(stroke
-						(width 0.1524)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.27 -5.08) (xy 0.8636 -5.08)
-					)
 					(stroke
 						(width 0.1524)
 						(type default)
@@ -194,7 +125,7 @@
 					)
 				)
 				(pin passive line
-					(at 5.08 2.54 180)
+					(at -5.08 0 0)
 					(length 3.81)
 					(name "Pin_1"
 						(effects
@@ -212,7 +143,7 @@
 					)
 				)
 				(pin passive line
-					(at 5.08 0 180)
+					(at -5.08 -2.54 0)
 					(length 3.81)
 					(name "Pin_2"
 						(effects
@@ -222,42 +153,6 @@
 						)
 					)
 					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -2.54 180)
-					(length 3.81)
-					(name "Pin_3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -5.08 180)
-					(length 3.81)
-					(name "Pin_4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -1492,16 +1387,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Power IN from Power Slab\n5.2V @9.6A (50W)"
-		(exclude_from_sim no)
-		(at 129.54 35.56 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "595dd4f2-f6b5-4eb4-8b4b-de99a193095c")
-	)
 	(text "I2C Address:\n0x40 (7-bit)"
 		(exclude_from_sim no)
 		(at 50.8 31.75 0)
@@ -1511,6 +1396,16 @@
 			)
 		)
 		(uuid "80416716-0a9d-43bd-abbb-1491b11b9a09")
+	)
+	(text "Power IN from Power Slab\n5.2V @9.6A (50W)"
+		(exclude_from_sim no)
+		(at 155.702 38.1 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "9e008e1d-2aef-4261-af62-512872ec7884")
 	)
 	(junction
 		(at 92.71 58.42)
@@ -1537,16 +1432,16 @@
 		(uuid "6ca5a398-bc44-4d99-a427-7f4fff974c10")
 	)
 	(junction
-		(at 130.81 54.61)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "826ab269-d3e2-495c-a6cc-3437bb8f651f")
-	)
-	(junction
 		(at 91.44 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "90a9328e-287f-4b88-acb5-528adf20f952")
+	)
+	(junction
+		(at 59.69 93.98)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9e3e77c0-58f7-415a-9805-b3861d39c2f5")
 	)
 	(junction
 		(at 35.56 45.72)
@@ -1572,12 +1467,6 @@
 		(color 0 0 0 0)
 		(uuid "e1ac0947-9b66-4733-bf19-8bdfce88c467")
 	)
-	(junction
-		(at 130.81 46.99)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f12d5311-5051-494e-853d-baa7c23e414f")
-	)
 	(wire
 		(pts
 			(xy 46.99 38.1) (xy 48.26 38.1)
@@ -1600,13 +1489,13 @@
 	)
 	(wire
 		(pts
-			(xy 59.69 91.44) (xy 59.69 96.52)
+			(xy 59.69 91.44) (xy 59.69 93.98)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "23197d2d-06df-4cc7-9b21-e9a39b0a9a3d")
+		(uuid "11defe90-3f2b-4c86-bc25-f2200f5dd08a")
 	)
 	(wire
 		(pts
@@ -1630,6 +1519,16 @@
 	)
 	(wire
 		(pts
+			(xy 59.69 93.98) (xy 59.69 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "288b60fd-bb37-483c-9c66-142de1bd1c8a")
+	)
+	(wire
+		(pts
 			(xy 88.9 58.42) (xy 92.71 58.42)
 		)
 		(stroke
@@ -1640,6 +1539,26 @@
 	)
 	(wire
 		(pts
+			(xy 157.48 52.07) (xy 153.67 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39329d2c-e882-4990-af66-13a534bd5ace")
+	)
+	(wire
+		(pts
+			(xy 157.48 53.34) (xy 157.48 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e79d9c1-332b-494e-b35c-443220e45b8f")
+	)
+	(wire
+		(pts
 			(xy 80.01 90.17) (xy 80.01 93.98)
 		)
 		(stroke
@@ -1647,16 +1566,6 @@
 			(type default)
 		)
 		(uuid "456291fb-2332-4b02-b2c1-accf017bcbf8")
-	)
-	(wire
-		(pts
-			(xy 130.81 54.61) (xy 130.81 57.15)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "45f65ced-5b78-4b73-a463-8f9b04ba42ba")
 	)
 	(wire
 		(pts
@@ -1720,13 +1629,13 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 46.99) (xy 130.81 49.53)
+			(xy 153.67 49.53) (xy 163.83 49.53)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "602f9b3a-cd59-4871-84cd-1964458039f0")
+		(uuid "62981592-2f92-4631-add3-26e283d047b5")
 	)
 	(wire
 		(pts
@@ -1747,16 +1656,6 @@
 			(type default)
 		)
 		(uuid "67cb7b69-73a1-43c4-a766-ea3f51c22753")
-	)
-	(wire
-		(pts
-			(xy 130.81 52.07) (xy 130.81 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6a5f53d1-dc6a-4a39-a5e5-40c1fc10a0a2")
 	)
 	(wire
 		(pts
@@ -1840,16 +1739,6 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 44.45) (xy 130.81 46.99)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a8a0dc1a-a3e9-4b04-b8c6-95a3e47351e4")
-	)
-	(wire
-		(pts
 			(xy 35.56 31.75) (xy 35.56 35.56)
 		)
 		(stroke
@@ -1857,6 +1746,16 @@
 			(type default)
 		)
 		(uuid "b5cce436-e7a6-48a6-9196-b6a8247792a8")
+	)
+	(wire
+		(pts
+			(xy 59.69 93.98) (xy 80.01 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdc923d8-4124-47f4-afa9-95970c949343")
 	)
 	(wire
 		(pts
@@ -1900,7 +1799,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 93.98) (xy 80.01 93.98)
+			(xy 39.37 93.98) (xy 59.69 93.98)
 		)
 		(stroke
 			(width 0)
@@ -1947,6 +1846,16 @@
 			(type default)
 		)
 		(uuid "fde7e2f4-8b9a-4c4d-a814-149f4e6dc2af")
+	)
+	(label "+5V_UNFILT"
+		(at 163.83 49.53 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "f3a447af-6ca7-42bf-8137-84aa98dde0b4")
 	)
 	(global_label "I2C_SCL_STM"
 		(shape input)
@@ -2569,84 +2478,6 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 130.81 57.15 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "6b6f28b1-6247-45e6-b5c3-c93d5cc0ced5")
-		(property "Reference" "#PWR014"
-			(at 130.81 63.5 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "GND"
-			(at 130.81 62.23 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 130.81 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 130.81 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 130.81 57.15 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "1"
-			(uuid "c4a335e6-bab9-4e39-9a7f-222a81e7b246")
-		)
-		(instances
-			(project "X19-Pi-Shield-Board"
-				(path "/00000000-0000-0000-0000-000060e6118b/6e1cf58b-0177-4d78-b4d6-5b18f6615062"
-					(reference "#PWR014")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
 		(at 46.99 41.91 0)
 		(unit 1)
 		(body_style 1)
@@ -2717,6 +2548,86 @@
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/6e1cf58b-0177-4d78-b4d6-5b18f6615062"
 					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 148.59 49.53 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "89525d8e-2a5f-4645-a3d1-b914a3b20171")
+		(property "Reference" "J2"
+			(at 148.082 43.688 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 152.654 45.72 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "rov_connectors:0436500200"
+			(at 148.59 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 148.59 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 148.59 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "06a5b260-53f2-4889-b916-1aaeac687551")
+		)
+		(pin "1"
+			(uuid "b74ace84-60ba-4d74-922a-171fd650687c")
+		)
+		(instances
+			(project "X19-Pi-Shield-Board"
+				(path "/00000000-0000-0000-0000-000060e6118b/6e1cf58b-0177-4d78-b4d6-5b18f6615062"
+					(reference "J2")
 					(unit 1)
 				)
 			)
@@ -2798,92 +2709,6 @@
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/6e1cf58b-0177-4d78-b4d6-5b18f6615062"
 					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Connector:Conn_01x04_Pin")
-		(at 125.73 49.53 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "9372355e-d6b8-4ea0-8b8b-07d495aa1e33")
-		(property "Reference" "J9"
-			(at 123.19 50.8 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x04_Pin"
-			(at 126.365 44.45 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 125.73 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 125.73 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04, script generated"
-			(at 125.73 49.53 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "3"
-			(uuid "9ccbaf6e-5490-4043-ae01-7a11a01d7263")
-		)
-		(pin "2"
-			(uuid "1ae54aac-bcae-4644-95a3-96b20124033c")
-		)
-		(pin "4"
-			(uuid "99b0dafd-474d-49c6-addc-18a5077d6a04")
-		)
-		(pin "1"
-			(uuid "7dff5f51-2e65-4d81-9935-e1a2c577fe53")
-		)
-		(instances
-			(project "X19-Pi-Shield-Board"
-				(path "/00000000-0000-0000-0000-000060e6118b/6e1cf58b-0177-4d78-b4d6-5b18f6615062"
-					(reference "J9")
 					(unit 1)
 				)
 			)
@@ -3394,8 +3219,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:+5V")
-		(at 130.81 44.45 0)
+		(lib_id "power:GND")
+		(at 157.48 53.34 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3403,10 +3228,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ccd1cda3-c7b7-4848-b29c-eace673a099d")
-		(property "Reference" "#PWR030"
-			(at 130.81 48.26 0)
+		(uuid "d7c856a5-3c7f-46fe-86d3-88ffc75795ec")
+		(property "Reference" "#PWR08"
+			(at 157.48 59.69 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3416,8 +3240,8 @@
 				)
 			)
 		)
-		(property "Value" "+5V_UNFILT"
-			(at 130.81 39.37 0)
+		(property "Value" "GND"
+			(at 161.29 55.118 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3427,7 +3251,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 130.81 44.45 0)
+			(at 157.48 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3438,7 +3262,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 130.81 44.45 0)
+			(at 157.48 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3448,8 +3272,8 @@
 				)
 			)
 		)
-		(property "Description" "Power symbol creates a global label with name \"+5V\""
-			(at 130.81 44.45 0)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 157.48 53.34 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3460,12 +3284,12 @@
 			)
 		)
 		(pin "1"
-			(uuid "f9ab66d6-49a6-4dc4-9244-e45cb67e1808")
+			(uuid "3983f5e4-e07c-4468-9498-30cf583f388a")
 		)
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/6e1cf58b-0177-4d78-b4d6-5b18f6615062"
-					(reference "#PWR030")
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
