@@ -13,25 +13,26 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 12,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J2 J3,Conn_01x02,0436500200,2, ,,,,,,,,
 13,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x03,J6,Conn_01x03,Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm,1, ,,,,,,,,
 14,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04,J5,Conn_01x04,Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm,1, ,,,,,,,,
-15,"Generic connector, single row, 01x05, script generated",Conn_01x05_Pin,J7,Conn_01x05_Pin,,1, ,,,,,,,,
-16,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x06,J4,Conn_01x06,,1, ,,,,,,,,
-17,"Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_02x05_Odd_Even,J8,Conn_02x05_Odd_Even,Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm,1, ,,,,,,,,
+15,"Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x05,J9,Conn_01x05,,1, ,,,,,,,,
+16,"Generic connector, single row, 01x05, script generated",Conn_01x05_Pin,J7,Conn_01x05_Pin,,1, ,,,,,,,,
+17,"Generic connector, single row, 01x06, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x06,J4,Conn_01x06,,1, ,,,,,,,,
 18,Raspberry Pi 4 Model B,Raspberry_Pi_4,J1,Raspberry_Pi_4,PinSocket_2x20_P2.54mm_Vertical,1, ,https://datasheets.raspberrypi.com/rpi4/raspberry-pi-4-datasheet.pdf,,,,,,,
 19,"Jumper, 2-pole, open",Jumper_2_Open,JP1,Jumper_2_Open,,1, ,,,,,,,,
 20,"Resistor, small US symbol",R_Small_US,R1,1m,D0008A-IPC_A,1, ,,,,,,,,
 21,"Resistor, US symbol",R_US,R12 R13,60,,2, ,,,,,,,,
 22,"Resistor, US symbol",R_US,R7 R9,1K,,2, ,,,,,,,,
 23,"Resistor, US symbol",R_US,R6 R8,2.2K,,2, ,,,,,,,,
-24,"Resistor, small US symbol",R_Small_US,R2 R3 R4,4.7k,,3, ,,,,,,,,
-25,"Resistor, US symbol",R_US,R5 R10 R11,10k,R_Array_SIP4,3, ,,,,,,,,
-26,"Push button switch, generic, two pins",SW_Push,SW1,SW_Push,SW_NKK_GW12LJP,1, ,,,,,,,,
-27,"3-in-1 sensor, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8",BME280,U2,BME280,Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering,1, ,https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme280-ds002.pdf,,,,,,,
-28,,INA237AIDGSR,U3,INA237AIDGSR,VSSOP_IDGSR_TEX,1, ,https://www.ti.com/lit/gpn/ina237,,,,,,,
-29,,MCP2518FDT-E_QBB,U5,MCP2518FDT-E/QBB,VDFN14_QBB_MCH,1, ,MCP2518FDT-E/QBB,,,,,,,
-30,"300mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, SOT-23",MIC5504-3.3YM5,U1,MIC5504-3.3YM5,SOT-23-5,1, ,http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf,,,,,,,
-31,,STM32C542CCT6,U7,STM32C542CCT6,LQFP48-7X7,1, ,https://www.st.com/resource/en/datasheet/stm32c542cc.pdf,,,,,,,
-32,,TCAN1044VDRQ1,U4 U6,TCAN1044VDRQ1,D0008A-IPC_A,2, ,https://www.ti.com/lit/gpn/tcan1044-q1,,,,,,,
-33,The sub miniature ECX-32 is a compact SMD Crystal.,ECS-120-18-33-JGN-TR,Y1 Y3,ECS-400-18-33-JGN-TR,XTAL_ECS-120-18-33-JGN-TR,2, ,,,ECS INC,SMD-4 ECX,,Manufacturer recommendations,ECX-32,Good
+24,"Resistor, US symbol",R_US,R26 R27,4.7k,,2, ,,,,,,,,
+25,"Resistor, small US symbol",R_Small_US,R4,4.7k,,1, ,,,,,,,,
+26,"Resistor, US symbol",R_US,R5 R10 R11,10k,R_Array_SIP4,3, ,,,,,,,,
+27,"Push button switch, generic, two pins",SW_Push,SW1,SW_Push,SW_NKK_GW12LJP,1, ,,,,,,,,
+28,"3-in-1 sensor, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8",BME280,U2,BME280,Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering,1, ,https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme280-ds002.pdf,,,,,,,
+29,,INA237AIDGSR,U3,INA237AIDGSR,VSSOP_IDGSR_TEX,1, ,https://www.ti.com/lit/gpn/ina237,,,,,,,
+30,,MCP2518FDT-E_QBB,U5,MCP2518FDT-E/QBB,VDFN14_QBB_MCH,1, ,MCP2518FDT-E/QBB,,,,,,,
+31,"300mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, SOT-23",MIC5504-3.3YM5,U1,MIC5504-3.3YM5,SOT-23-5,1, ,http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf,,,,,,,
+32,,STM32C542CCT6,U7,STM32C542CCT6,LQFP48-7X7,1, ,https://www.st.com/resource/en/datasheet/stm32c542cc.pdf,,,,,,,
+33,,TCAN1044VDRQ1,U4 U6,TCAN1044VDRQ1,D0008A-IPC_A,2, ,https://www.ti.com/lit/gpn/tcan1044-q1,,,,,,,
+34,The sub miniature ECX-32 is a compact SMD Crystal.,ECS-120-18-33-JGN-TR,Y1 Y3,ECS-400-18-33-JGN-TR,XTAL_ECS-120-18-33-JGN-TR,2, ,,,ECS INC,SMD-4 ECX,,Manufacturer recommendations,ECX-32,Good
 
 
 
@@ -41,10 +42,10 @@ Project info:
 Schematic:,X19-Pi-Shield-Board
 Variant:,default
 Revision:,
-Date:,2026-10-06_05-39-01
+Date:,2026-10-06_20-56-11
 KiCad Version:,10.0.5-unknown-202607221313~667fa36054~ubuntu25.10.1
 Statistics:
-Component Groups:,33
+Component Groups:,34
 Component Count:,65
 Fitted Components:,65
 Number of PCBs:,1
