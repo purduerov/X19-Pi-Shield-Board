@@ -4370,10 +4370,6 @@
 		(uuid "84b5fe9f-9e35-4392-9586-6f17933f699d")
 	)
 	(no_connect
-		(at 29.21 48.26)
-		(uuid "9779bff3-87d7-4a81-9447-47db40b413bd")
-	)
-	(no_connect
 		(at 95.25 73.66)
 		(uuid "abe0d789-dfaf-4882-a383-25eae00275a7")
 	)
@@ -4936,6 +4932,16 @@
 			(type default)
 		)
 		(uuid "d65d748d-9c09-4c3e-9a0b-3d6c1398c3da")
+	)
+	(wire
+		(pts
+			(xy 26.67 48.26) (xy 29.21 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d70ee4b5-7ba5-4121-9ffb-83a3e75bddc1")
 	)
 	(wire
 		(pts
@@ -5728,6 +5734,30 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+	)
+	(global_label "CS_STM"
+		(shape input)
+		(at 26.67 48.26 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "ed41bf65-2456-405b-9117-5e84d7a632d1")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 17.2634 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
 			)
 		)
 	)
