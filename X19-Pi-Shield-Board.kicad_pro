@@ -662,7 +662,7 @@
         "uuid": "00000000-0000-0000-0000-000060e6118b"
       }
     ],
-    "used_designators": "TP5,JP1,CR1-3,IC1,C1-18,C20-25,U1,U3-6,SW1,D1-4,#PWR1-9,#PWR11-66,Y1-3,H1-4,R1-15,J2-3,J7-9",
+    "used_designators": "TP5-11,JP1,CR1-3,IC1,C1-28,U1,U3-7,SW1,D1-4,D6,#PWR1-9,#PWR11-80,#PWR100,#PWR112,#PWR116,#PWR121,Y1-3,H1-4,R1-15,R25,R27,R30,R33,J2-4,J7-10",
     "variants": []
   },
   "sheets": [
