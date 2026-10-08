@@ -7070,7 +7070,7 @@
 				)
 			)
 		)
-		(property "Footprint" "SOT-23_DBZ_TEX"
+		(property "Footprint" ""
 			(at 34.036 110.236 0)
 			(hide yes)
 			(show_name no)

@@ -3143,7 +3143,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "D0008A-IPC_A"
+		(property "Footprint" ""
 			(at 146.05 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -3383,7 +3383,7 @@
 				)
 			)
 		)
-		(property "Footprint" "VSSOP_IDGSR_TEX"
+		(property "Footprint" ""
 			(at 102.87 86.36 0)
 			(hide yes)
 			(show_name no)

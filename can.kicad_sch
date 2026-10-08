@@ -2883,7 +2883,7 @@
 				)
 			)
 		)
-		(property "Footprint" "D0008A-IPC_A"
+		(property "Footprint" ""
 			(at 111.76 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -5840,7 +5840,7 @@
 				)
 			)
 		)
-		(property "Footprint" "VDFN14_QBB_MCH"
+		(property "Footprint" ""
 			(at 72.39 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -6273,7 +6273,7 @@
 				)
 			)
 		)
-		(property "Footprint" "D0008A-IPC_A"
+		(property "Footprint" ""
 			(at 111.76 86.36 0)
 			(hide yes)
 			(show_name no)
