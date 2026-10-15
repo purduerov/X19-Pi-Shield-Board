@@ -2918,6 +2918,17 @@
 				)
 			)
 		)
+		(property "digikey" ""
+			(at 111.76 130.81 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "5"
 			(uuid "c3232b78-08bd-4336-9176-39884f022a83")
 		)
@@ -3166,6 +3177,17 @@
 					(size 1.27 1.27)
 				)
 				(justify bottom)
+			)
+		)
+		(property "digikey" ""
+			(at 182.88 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "1"
@@ -3454,7 +3476,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 182.88 94.2848 0)
 			(hide yes)
 			(show_name no)
@@ -3478,6 +3500,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 179.07 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "digikey" ""
+			(at 179.07 95.25 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3536,7 +3569,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 171.196 91.694 90)
 			(hide yes)
 			(show_name no)
@@ -3559,6 +3592,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 170.18 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "digikey" ""
 			(at 170.18 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -3618,7 +3662,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 42.2148 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -3641,6 +3685,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 43.18 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "digikey" ""
 			(at 43.18 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -3933,7 +3988,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 131.826 33.274 90)
 			(hide yes)
 			(show_name no)
@@ -3956,6 +4011,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 130.81 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "digikey" ""
 			(at 130.81 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -4014,7 +4080,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 72.0852 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -4037,6 +4103,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 71.12 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "digikey" ""
 			(at 71.12 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -4408,7 +4485,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 206.7052 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -4431,6 +4508,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 205.74 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "digikey" ""
 			(at 205.74 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -4725,7 +4813,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 171.196 99.314 90)
 			(hide yes)
 			(show_name no)
@@ -4748,6 +4836,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 170.18 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "digikey" ""
 			(at 170.18 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -4806,7 +4905,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 86.0552 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -4829,6 +4928,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 85.09 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "digikey" ""
 			(at 85.09 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -5043,7 +5153,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 86.0552 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -5066,6 +5176,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 85.09 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "digikey" ""
 			(at 85.09 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -5280,7 +5401,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 163.5252 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -5303,6 +5424,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 162.56 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "digikey" ""
 			(at 162.56 46.99 0)
 			(hide yes)
 			(show_name no)
@@ -5361,7 +5493,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 72.0852 144.78 0)
 			(hide yes)
 			(show_name no)
@@ -5384,6 +5516,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 71.12 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "digikey" ""
 			(at 71.12 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -5444,7 +5587,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 115.57 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -5468,6 +5611,17 @@
 		)
 		(property "Description" "test point"
 			(at 115.57 53.34 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "digikey" ""
+			(at 115.57 53.34 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5601,7 +5755,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 72.39 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -5625,6 +5779,17 @@
 		)
 		(property "Description" "test point"
 			(at 72.39 40.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "digikey" ""
+			(at 72.39 40.64 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5680,7 +5845,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 52.3748 41.91 0)
 			(hide yes)
 			(show_name no)
@@ -5703,6 +5868,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 53.34 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "digikey" ""
 			(at 53.34 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -5763,7 +5939,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
 			(at 115.57 45.72 0)
 			(hide yes)
 			(show_name no)
@@ -5787,6 +5963,17 @@
 		)
 		(property "Description" "test point"
 			(at 115.57 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "digikey" ""
+			(at 115.57 50.8 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5840,7 +6027,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "rov_MCP_footprint:VDFN14_QBB_MCH-M"
 			(at 72.39 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -5865,6 +6052,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 39.37 35.56 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "digikey" ""
 			(at 39.37 35.56 0)
 			(hide yes)
 			(show_name no)
@@ -6298,6 +6496,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 111.76 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "digikey" ""
 			(at 111.76 86.36 0)
 			(hide yes)
 			(show_name no)
