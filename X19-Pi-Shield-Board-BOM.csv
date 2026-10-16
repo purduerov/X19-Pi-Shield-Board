@@ -9,8 +9,8 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 8,Unpolarized capacitor,C,C26,10u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1, ,,,,,,,,,
 9,Unpolarized capacitor,C,C16,47uF,C_0805_2012Metric_Pad1.18x1.45mm_HandSolder,1, ,,,,,,,,,
 10,Unpolarized capacitor,C,C19,470u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1, ,,,,,,,,,
-11,,ESD2CAN24DBZRQ1,CR2,ESD2CAN24DBZRQ1,,1, ,ESD2CAN24DBZRQ1,,,,,,,,
-12,Light emitting diode,LED,D1 D2 D3 D4,LED,LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder,4, ,,,1=K 2=A,,,,,,
+11,,ESD2CAN24DBZRQ1,CR2,ESD2CAN24DBZRQ1,SOT-23_DBZ_TEX-M,1, ,ESD2CAN24DBZRQ1,,,,,,,,
+12,Light emitting diode,LED,D1 D2 D3 D4,LED,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,4, ,,,1=K 2=A,,,,,,
 13,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J2 J3,Conn_01x02,0436500200,2, ,,,,,,,,,
 14,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J8,Conn_01x02,DFN-14-1EP_3x4.5mm_P0.65mm_EP1.65x4.25mm,1, ,,,,,,,,,
 15,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x03,J6,Conn_01x03,Oscillator_SMD_ECS_2520MV-xxx-xx-4Pin_2.5x2.0mm,1, ,,,,,,,,,
@@ -30,11 +30,11 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 29,"Resistor, US symbol",R_US,R5,10k,R_Array_SIP4,1, ,,,,,,,,,
 30,"Push button switch, generic, two pins",SW_Push,SW1,SW_Push,SW_NKK_GW12LJP,1, ,,,,,,,,,
 31,"3-in-1 sensor, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8",BME280,U2,BME280,Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering,1, ,https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme280-ds002.pdf,,,,,,,,
-32,,INA237AIDGSR,U3,INA237AIDGSR,,1, ,https://www.ti.com/lit/gpn/ina237,,,,,,,,
+32,,INA237AIDGSR,U3,INA237AIDGSR,VSSOP_IDGSR_TEX-M,1, ,https://www.ti.com/lit/gpn/ina237,,,,,,,,
 33,,MCP2518FDT-E_QBB,U5,MCP2518FDT-E/QBB,VDFN14_QBB_MCH-M,1, ,MCP2518FDT-E/QBB,,,,,,,,
 34,"300mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, SOT-23",MIC5504-3.3YM5,U1,MIC5504-3.3YM5,SOT-23-5,1, ,http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf,,,,,,,,
-35,,STM32C542CCT6,U7,STM32C542CCT6,,1, ,https://www.st.com/resource/en/datasheet/stm32c542cc.pdf,,,,,,,,
-36,,TCAN1044VDRQ1,U4 U6,TCAN1044VDRQ1,,2, ,https://www.ti.com/lit/gpn/tcan1044-q1,,,,,,,,
+35,,STM32C542CCT6,U7,STM32C542CCT6,LQFP48-7X7-M,1, ,https://www.st.com/resource/en/datasheet/stm32c542cc.pdf,,,,,,,,
+36,,TCAN1044VDRQ1,U4 U6,TCAN1044VDRQ1,D0008A-IPC_A,2, ,https://www.ti.com/lit/gpn/tcan1044-q1,,,,,,,,
 37,The sub miniature ECX-32 is a compact SMD Crystal.,ECS-120-18-33-JGN-TR,Y1 Y3,ECS-400-18-33-JGN-TR,XTAL_ECS-120-18-33-JGN-TR,2, ,,,,ECS INC,SMD-4 ECX,,Manufacturer recommendations,ECX-32,Good
 
 
@@ -45,7 +45,7 @@ Project info:
 Schematic:,X19-Pi-Shield-Board
 Variant:,default
 Revision:,
-Date:,2026-10-16_19-08-02
+Date:,2026-10-16_20-10-38
 KiCad Version:,10.0.5-unknown-202607221313~667fa36054~ubuntu25.10.1
 Statistics:
 Component Groups:,37
