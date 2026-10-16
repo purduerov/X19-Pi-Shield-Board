@@ -2883,7 +2883,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "rov_TCAN_footprint:D0008A-IPC_A"
 			(at 111.76 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -6471,7 +6471,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "rov_TCAN_footprint:D0008A-IPC_A"
 			(at 111.76 86.36 0)
 			(hide yes)
 			(show_name no)

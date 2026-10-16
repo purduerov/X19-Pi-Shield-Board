@@ -5804,7 +5804,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "rov_STM_footprint:LQFP48-7X7-M"
 			(at 39.37 38.1 0)
 			(hide yes)
 			(show_name no)

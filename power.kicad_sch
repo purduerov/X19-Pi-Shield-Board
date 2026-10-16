@@ -3449,7 +3449,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "rov_INA_footprint:VSSOP_IDGSR_TEX-M"
 			(at 102.87 86.36 0)
 			(hide yes)
 			(show_name no)
