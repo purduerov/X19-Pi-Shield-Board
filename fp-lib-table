@@ -12,4 +12,6 @@
 	(lib (name "rov_INA_footprint") (type "KiCad") (uri "${KIPRJMOD}/libraries/INA237AIDGSR/KiCADv6/footprints.pretty") (options "") (descr ""))
 	(lib (name "rov_TCAN_footprint") (type "KiCad") (uri "${KIPRJMOD}/libraries/TCAN1044VDRQ1/KiCADv6/footprints.pretty") (options "") (descr ""))
 	(lib (name "rov_conn_436500200") (type "KiCad") (uri "${KIPRJMOD}/libraries/436500200/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "rov_switch_FSM2JMTR") (type "KiCad") (uri "${KIPRJMOD}/libraries/FSM2JMTR/KiCADv6/footprints.pretty") (options "") (descr ""))
+	(lib (name "rov_ECS_400_18_33_JGN_TR") (type "KiCad") (uri "${KIPRJMOD}/libraries/ECS_400_18_33_JGN_TR (1)") (options "") (descr ""))
 )

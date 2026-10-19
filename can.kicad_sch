@@ -3072,7 +3072,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ECS-120-18-33-JGN-TR:XTAL_ECS-120-18-33-JGN-TR"
+		(property "Footprint" "rov_ECS_400_18_33_JGN_TR:XTAL_ECS-400-18-33-JGN-TR"
 			(at 182.88 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -5564,7 +5564,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "b7284e47-ca46-451c-9b4d-27414bc91504")
-		(property "Reference" "TP11"
+		(property "Reference" "INT1"
 			(at 120.65 53.34 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5637,7 +5637,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "TP11")
+					(reference "INT1")
 					(unit 1)
 				)
 			)
@@ -5732,7 +5732,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c896e41c-2b01-4f7c-bed5-c07a54ad5ef7")
-		(property "Reference" "TP8"
+		(property "Reference" "SOF"
 			(at 67.31 40.64 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5805,7 +5805,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "TP8")
+					(reference "SOF")
 					(unit 1)
 				)
 			)
@@ -5916,7 +5916,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d6e67166-9f37-4a79-972a-1c24d371d2be")
-		(property "Reference" "TP10"
+		(property "Reference" "INT0"
 			(at 120.65 50.8 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5989,7 +5989,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "TP10")
+					(reference "INT0")
 					(unit 1)
 				)
 			)

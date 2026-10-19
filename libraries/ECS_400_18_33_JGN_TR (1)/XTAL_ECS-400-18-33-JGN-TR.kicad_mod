@@ -1,5 +1,5 @@
 
-(footprint XTAL_ECS-400-18-33-JGN-TR (layer F.Cu) (tedit 6AADE42D)
+(footprint XTAL_ECS-400-18-33-JGN-TR (layer F.Cu) (tedit 6AD681FA)
   (descr "")
   (attr smd)
   (fp_text reference REF** (at -0.527085 -2.109127 0) (layer F.SilkS)

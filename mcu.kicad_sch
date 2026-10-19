@@ -3852,7 +3852,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Button_Switch_THT:SW_NKK_GW12LJP"
+		(property "Footprint" "rov_switch_FSM2JMTR:SW_FSM2JMTR_TEC-M"
 			(at 161.29 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -3943,7 +3943,7 @@
 				)
 			)
 		)
-		(property "Footprint" "ECS-120-18-33-JGN-TR:XTAL_ECS-120-18-33-JGN-TR"
+		(property "Footprint" "rov_ECS_400_18_33_JGN_TR:XTAL_ECS-400-18-33-JGN-TR"
 			(at 232.41 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -4440,7 +4440,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_THT:R_Array_SIP4"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
 			(at 180.086 122.174 90)
 			(hide yes)
 			(show_name no)
@@ -5457,7 +5457,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical"
 			(at 72.39 133.35 0)
 			(hide yes)
 			(show_name no)

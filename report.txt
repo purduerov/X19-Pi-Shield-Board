@@ -1,0 +1,5 @@
+Updated TestPoint from 3.3V to 3.3V1.
+Updated TestPoint from 5.1V to 5.1V1.
+Updated TestPoint from 5.1V_RAW to 5.1V_RAW1.
+Updated TestPoint from GND to GND1.
+Annotation complete.

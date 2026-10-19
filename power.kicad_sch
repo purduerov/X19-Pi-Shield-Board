@@ -2229,7 +2229,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
 			(at 199.0852 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -3095,7 +3095,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rov_connectors:0436500200"
+		(property "Footprint" "rov_conn_436500200:CONN_SD-43650-001_02_MOL"
 			(at 175.26 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -3187,7 +3187,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_2512_6332Metric_Pad1.40x3.35mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 146.05 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -3280,7 +3280,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 94.9452 134.62 0)
 			(hide yes)
 			(show_name no)
@@ -3645,7 +3645,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
 			(at 135.5852 134.62 0)
 			(hide yes)
 			(show_name no)
