@@ -3790,16 +3790,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "~10mA thru LED"
-		(exclude_from_sim no)
-		(at 132.08 138.43 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "4d3e7db3-6d0c-43ce-b58f-27cc1bd50c9c")
-	)
 	(text "CSB->VDDIO = I2C"
 		(exclude_from_sim no)
 		(at 125.73 45.72 0)
@@ -3895,12 +3885,24 @@
 		(uuid "078cd2fa-c7c6-45cc-ab1c-4dba060927c2")
 	)
 	(no_connect
+		(at 95.25 38.1)
+		(uuid "0cc79161-216f-47d3-b3ab-64f97631a8d0")
+	)
+	(no_connect
+		(at 29.21 48.26)
+		(uuid "1079f853-7879-4113-ae8c-d7d78545bad8")
+	)
+	(no_connect
 		(at 95.25 33.02)
 		(uuid "180fc19f-6933-477d-b060-e773aa7092e5")
 	)
 	(no_connect
 		(at 29.21 66.04)
 		(uuid "19b33236-0035-45b9-bc7d-ee54d2d3ec63")
+	)
+	(no_connect
+		(at 29.21 38.1)
+		(uuid "1bc3c0ec-8bd0-461c-b82f-b026ab1b6a4a")
 	)
 	(no_connect
 		(at 95.25 68.58)
@@ -3917,6 +3919,10 @@
 	(no_connect
 		(at 29.21 73.66)
 		(uuid "4a5debda-18fb-479b-84ad-0a460d6e3d0c")
+	)
+	(no_connect
+		(at 29.21 40.64)
+		(uuid "50c1c4e4-381b-47e9-bf9e-5d380d5496b0")
 	)
 	(no_connect
 		(at 29.21 30.48)
@@ -3941,6 +3947,10 @@
 	(no_connect
 		(at 29.21 33.02)
 		(uuid "b33147a0-422d-4fcb-96be-a42d669efa42")
+	)
+	(no_connect
+		(at 95.25 40.64)
+		(uuid "b982a165-85f2-4574-a71f-2d51a611c6e3")
 	)
 	(no_connect
 		(at 95.25 66.04)
@@ -4210,16 +4220,6 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 40.64) (xy 29.21 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "595bc674-c456-4fbf-9630-4c57703f9e6a")
-	)
-	(wire
-		(pts
 			(xy 156.21 39.37) (xy 156.21 46.99)
 		)
 		(stroke
@@ -4420,16 +4420,6 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 38.1) (xy 29.21 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ace5ba6e-61c8-41b4-be7e-d980897a2ace")
-	)
-	(wire
-		(pts
 			(xy 132.08 162.56) (xy 133.35 162.56)
 		)
 		(stroke
@@ -4497,16 +4487,6 @@
 			(type default)
 		)
 		(uuid "d65d748d-9c09-4c3e-9a0b-3d6c1398c3da")
-	)
-	(wire
-		(pts
-			(xy 26.67 48.26) (xy 29.21 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d70ee4b5-7ba5-4121-9ffb-83a3e75bddc1")
 	)
 	(wire
 		(pts
@@ -4798,30 +4778,6 @@
 			)
 		)
 	)
-	(global_label "TXD"
-		(shape input)
-		(at 25.4 38.1 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify right)
-		)
-		(uuid "423e7c99-0d70-44d7-b9bf-c6a92f2c8598")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.2544 38.1 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "I2C_SCL_STM"
 		(shape input)
 		(at 154.94 59.69 0)
@@ -4859,30 +4815,6 @@
 		(uuid "4ce7fa75-7c37-4a95-ad03-5b11791fb128")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 22.9789 162.56 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
-	(global_label "RXD"
-		(shape input)
-		(at 25.4 40.64 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.016 1.016)
-			)
-			(justify right)
-		)
-		(uuid "5771ccf6-67f5-4654-8843-6a5710f7c68f")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 20.0125 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5251,30 +5183,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "CS_STM"
-		(shape input)
-		(at 26.67 48.26 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "ed41bf65-2456-405b-9117-5e84d7a632d1")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 17.2634 48.26 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
