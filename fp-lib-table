@@ -15,4 +15,5 @@
 	(lib (name "rov_switch_FSM2JMTR") (type "KiCad") (uri "${KIPRJMOD}/libraries/FSM2JMTR/KiCADv6/footprints.pretty") (options "") (descr ""))
 	(lib (name "rov_ECS_400_18_33_JGN_TR") (type "KiCad") (uri "${KIPRJMOD}/libraries/ECS_400_18_33_JGN_TR (1)") (options "") (descr ""))
 	(lib (name "rov_ECS-240-8-37B-CKY-TR") (type "KiCad") (uri "${KIPRJMOD}/libraries/ECS-240-8-37B-CKY-TR") (options "") (descr ""))
+	(lib (name "rov_100_uF_capacitor_footprint") (type "KiCad") (uri "${KIPRJMOD}/libraries/UWD1C101MCL1GS (1)/KiCADv6/footprints.pretty") (options "") (descr ""))
 )

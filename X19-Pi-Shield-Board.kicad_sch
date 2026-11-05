@@ -6728,7 +6728,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "470u"
+		(property "Value" "100u"
 			(at 105.41 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6739,7 +6739,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
+		(property "Footprint" "rov_100_uF_capacitor_footprint:PCAP_6.3x5.8-ELECT_NCA-M"
 			(at 103.8352 38.1 0)
 			(hide yes)
 			(show_name no)
