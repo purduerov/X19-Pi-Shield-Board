@@ -5653,7 +5653,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "0abb52a7-5cc7-48aa-9d9e-7f33bc5996e5")
 		(property "Reference" "#PWR039"
 			(at 179.07 151.13 0)
@@ -5667,7 +5666,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 179.07 149.86 0)
+			(at 179.07 148.59 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6482,7 +6481,6 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "262cbedb-b179-4ba8-9529-9e1bda5685f2")
 		(property "Reference" "#PWR038"
 			(at 179.07 120.65 0)
@@ -6496,7 +6494,7 @@
 			)
 		)
 		(property "Value" "+3.3V"
-			(at 179.07 111.76 0)
+			(at 179.07 113.03 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects

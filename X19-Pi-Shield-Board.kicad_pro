@@ -63,7 +63,7 @@
           "min_clearance": 0.5,
           "min_island_area": 10.0,
           "min_thickness": 0.25,
-          "pad_connection": 1,
+          "pad_connection": 2,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
@@ -211,6 +211,12 @@
       ],
       "track_widths": [
         0.0,
+        0.2,
+        0.5,
+        0.8,
+        1.0,
+        1.5,
+        2.0,
         3.0
       ],
       "tuning_pattern_settings": {
@@ -730,7 +736,7 @@
         "uuid": "00000000-0000-0000-0000-000060e6118b"
       }
     ],
-    "used_designators": "R1-15,R25-28,R30,R33,#FLG1,IC1,JP1,SW1,TP5-11,CR1-3,U1,U3-7,C1-28,#PWR1-9,#PWR11-81,#PWR100,#PWR112,#PWR116,#PWR121,D1-6,Y1-3,3.3V1,GND1,H1-4,J2-4,J7-15,5.1V1,5.1V_RAW1,Q1-2,SOF1",
+    "used_designators": "#FLG1,CR1-3,IC1,JP1,R1-15,R25-28,R30,R33,H1-4,TP5-11,D1-6,#PWR1-9,#PWR11-81,#PWR100,#PWR112,#PWR116,#PWR121,Y1-3,3.3V1,GND1,J2-4,J7-15,5.1V1,5.1V_RAW1,Q1-2,U1,U3-7,C1-28,SW1,SOF1",
     "variants": []
   },
   "sheets": [
