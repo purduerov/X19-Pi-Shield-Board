@@ -5504,7 +5504,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rov_ECS-240-8-37B-CKY-TR:XTAL_ECS-160-9-37-CKM-TR"
+		(property "Footprint" "Crystal:Crystal_SMD_2016-4Pin_2.0x1.6mm"
 			(at 232.41 78.74 0)
 			(hide yes)
 			(show_name no)
