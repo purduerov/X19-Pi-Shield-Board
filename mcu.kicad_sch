@@ -5586,6 +5586,17 @@
 				)
 			)
 		)
+		(property "Part Number" "BM03B-GHS-TBT"
+			(at 39.37 152.4 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "d0bade44-5069-46a0-b88c-38a0697c9d99")
 		)
@@ -6665,6 +6676,17 @@
 				)
 			)
 		)
+		(property "Part Number" "BM03B-GHS-TBT"
+			(at 39.37 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a9b8d0ef-c4fc-4ddc-b49c-78600e0587a2")
 		)
@@ -7023,6 +7045,17 @@
 				)
 			)
 		)
+		(property "Part Number" "LTST-C190GKT"
+			(at 123.19 179.07 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "eb66f8a7-ab2b-4f22-947b-043f523f588c")
 		)
@@ -7121,6 +7154,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=B 2=E 3=C"
+			(at 106.68 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "MMBT3906"
 			(at 106.68 154.94 0)
 			(hide yes)
 			(show_name no)
@@ -7390,7 +7434,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -7994,7 +8038,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -8417,6 +8461,17 @@
 			)
 		)
 		(property "digikey" ""
+			(at 39.37 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "STM32C542CCT6"
 			(at 39.37 38.1 0)
 			(hide yes)
 			(show_name no)

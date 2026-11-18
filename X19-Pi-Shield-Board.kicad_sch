@@ -5024,7 +5024,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -5332,7 +5332,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -5639,7 +5639,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -5990,7 +5990,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -6163,6 +6163,17 @@
 				)
 			)
 		)
+		(property "Part Number" "LTST-C190GKT"
+			(at 107.95 113.03 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "02aa7517-b0e7-4dc6-8c34-38bb886845a3")
 		)
@@ -6246,6 +6257,17 @@
 			)
 		)
 		(property "digikey" ""
+			(at 38.1 104.14 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "ESD2CAN24DBZRQ1"
 			(at 38.1 104.14 0)
 			(hide yes)
 			(show_name no)
@@ -6363,6 +6385,17 @@
 				)
 			)
 		)
+		(property "Part Number" "LTST-C190GKT"
+			(at 140.97 113.03 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "dc95210c-ef19-4f32-803e-c15a1b50de1a")
 		)
@@ -6411,7 +6444,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.2"
+		(property "Footprint" "Capacitor_SMD:CP_Elec_6.3x5.4"
 			(at 103.8352 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -6445,6 +6478,17 @@
 			)
 		)
 		(property "digikey" ""
+			(at 102.87 34.29 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "865080343009"
 			(at 102.87 34.29 0)
 			(hide yes)
 			(show_name no)
@@ -6537,6 +6581,17 @@
 			)
 		)
 		(property "digikey" ""
+			(at 139.7 62.23 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "BME280"
 			(at 139.7 62.23 0)
 			(hide yes)
 			(show_name no)
@@ -6814,6 +6869,17 @@
 			)
 		)
 		(property "digikey" ""
+			(at 158.75 113.03 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "LTST-C190GKT"
 			(at 158.75 113.03 90)
 			(hide yes)
 			(show_name no)
@@ -7202,7 +7268,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -7444,6 +7510,17 @@
 				)
 			)
 		)
+		(property "Part Number" "LTST-C190GKT"
+			(at 118.11 113.03 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "6bec40a7-42c6-4848-b19c-4ee0566f87df")
 		)
@@ -7633,7 +7710,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -7807,7 +7884,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -8065,7 +8142,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -8310,7 +8387,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -8868,7 +8945,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)

@@ -608,6 +608,19 @@
 				)
 			)
 		)
+		(property "Part Number" "MCP2518FDT-E/SL"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5e6eccc7-6c66-4b6b-9cb7-7fde6fd0bbd6")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "VDFN14_QBB_MCH VDFN14_QBB_MCH-M VDFN14_QBB_MCH-L")
 		(path "/4e72597d-5f14-4a5c-8875-e07f4e1002f7/d81eea50-ef9f-4ced-b1c7-dc08fa259827")
 		(sheetname "/CAN/")
@@ -1064,6 +1077,19 @@
 				)
 			)
 		)
+		(property "Part Number" "INA237AIDGSR"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "d9a34210-a2cc-460c-a7ea-0a07d13aad1d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "VSSOP_IDGSR_TEX VSSOP_IDGSR_TEX-M VSSOP_IDGSR_TEX-L")
 		(path "/6e1cf58b-0177-4d78-b4d6-5b18f6615062/b5f40c85-6078-44b0-8f63-36c11d311160")
 		(sheetname "/Power/")
@@ -1493,6 +1519,19 @@
 				)
 			)
 		)
+		(property "Part Number" "LTST-C190GKT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "be3b4434-0470-413e-bf91-35654e7621c0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/684264c1-c41b-4073-91f9-1c7d33c4ef66")
 		(sheetname "/")
@@ -1718,6 +1757,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -2383,6 +2423,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -2642,6 +2683,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -2765,6 +2807,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -3068,7 +3111,7 @@
 				(pins "1" "2" "3")
 			)
 		)
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 6.46)
@@ -3515,6 +3558,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "d8092e1c-23b1-4532-8e8b-d117aa572327")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "LTST-C190GKT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "61237ea3-c0c4-49fd-9d5e-525a0467a6c2")
 			(effects
 				(font
 					(size 1 1)
@@ -4670,7 +4726,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -6.453 9.052999)
@@ -4970,6 +5026,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1a12a6a7-faed-4d72-997a-81ced56c7f3e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "LTST-C190GKT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fb933f49-98e9-4721-9222-0f2bc2abe4a7")
 			(effects
 				(font
 					(size 1 1)
@@ -6941,6 +7010,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -7227,6 +7297,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "68a93b6c-d55f-42ed-9bc0-cfead5a5e01c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "BM03B-GHS-TBT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8134c859-1c0b-41fe-a5bf-17179f72b61f")
 			(effects
 				(font
 					(size 1 1)
@@ -8436,6 +8519,19 @@
 				)
 			)
 		)
+		(property "Part Number" "STM32C542CCT6"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "c5e928fe-765d-455f-b016-3197db4b93e2")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LQFP48-7X7 LQFP48-7X7-M LQFP48-7X7-L")
 		(path "/b5d0b18d-9e9a-40ab-b75b-13e0ef1ee8a4/cbea3e1b-be81-4986-835e-a203ff5c78a5")
 		(sheetname "/MCU/")
@@ -9335,7 +9431,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -6.453 9.052999)
@@ -10194,7 +10290,7 @@
 				(pins "1" "2" "3")
 			)
 		)
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 -1.38)
@@ -11336,6 +11432,19 @@
 				)
 			)
 		)
+		(property "Part Number" "BM03B-GHS-TBT"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8b336d34-9688-46da-97aa-8d4953eddd77")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "Connector*:*_1x??-1MP*")
 		(path "/b5d0b18d-9e9a-40ab-b75b-13e0ef1ee8a4/0dee3f0d-bfec-46b3-891e-1334d88f70e4")
 		(sheetname "/MCU/")
@@ -11808,7 +11917,7 @@
 				(pins "1" "2")
 			)
 		)
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 3.92)
@@ -12510,6 +12619,19 @@
 				)
 			)
 		)
+		(property "Part Number" "TCAN1044VDRQ1"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fe517621-ecd1-4053-8f3e-ff8298c43a79")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "D0008A-IPC_A D0008A-IPC_B D0008A-IPC_C D0008A-MFG")
 		(path "/4e72597d-5f14-4a5c-8875-e07f4e1002f7/fc438425-4850-4b82-9754-b5cd6fd8796f")
 		(sheetname "/CAN/")
@@ -12919,6 +13041,19 @@
 				)
 			)
 		)
+		(property "Part Number" "MMBT3906"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b720031c-bc32-4507-95d9-643d20e3ada8")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "SOT?23*")
 		(path "/b5d0b18d-9e9a-40ab-b75b-13e0ef1ee8a4/7a40ede0-d27f-4146-8c8b-bf8dc42885ee")
 		(sheetname "/MCU/")
@@ -13308,6 +13443,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "1912f921-4a14-4275-b19c-6379381cabcc")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "LTST-C190GKT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "fa99f95c-c564-4344-854b-77b449860506")
 			(effects
 				(font
 					(size 1 1)
@@ -13921,6 +14069,19 @@
 				)
 			)
 		)
+		(property "Part Number" "LTST-C190GKT"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f2a6628c-c891-44ea-8709-f80d59f857ce")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "LED* LED_SMD:* LED_THT:*")
 		(path "/4b1ccdc9-e57d-4b55-9c5b-fe42dbe5c4d9")
 		(sheetname "/")
@@ -14146,6 +14307,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -14376,20 +14538,21 @@
 			)
 		)
 	)
-	(footprint "Capacitor_SMD:CP_Elec_6.3x5.2"
+	(footprint "Capacitor_SMD:CP_Elec_6.3x5.4"
 		(layer "F.Cu")
 		(uuid "bfa1a997-69bc-46e6-bfd8-391045ca507c")
 		(at 131.75 74.4)
-		(descr "SMD capacitor, aluminum electrolytic, United Chemi-Con, 6.3x5.2mm")
+		(descr "SMD capacitor, aluminum electrolytic, Panasonic C55, 6.3x5.4mm")
 		(tags "capacitor electrolytic")
 		(property "Reference" "C1"
-			(at 0 0.1 0)
+			(at 0.25 0.1 0)
 			(layer "B.SilkS")
 			(uuid "a5f1b50b-5f38-4e2a-a3c6-eb73af8f03bb")
 			(effects
 				(font
 					(size 0.8 0.8)
 					(thickness 0.2)
+					(bold yes)
 				)
 				(justify mirror)
 			)
@@ -14444,7 +14607,20 @@
 			(unlocked yes)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "192cd415-5e81-4afa-a230-c7291795267e")
+			(uuid "22ad572f-9d23-4590-8597-684a664a478d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "865080343009"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f397ecfa-e359-4927-9cbb-76f8909a7669")
 			(effects
 				(font
 					(size 1 1)
@@ -14801,8 +14977,8 @@
 			(uuid "b26324d3-692b-4893-8dac-112fcd333ffe")
 			(effects
 				(font
-					(size 0.8 0.8)
-					(thickness 0.2)
+					(size 1 1)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -14825,7 +15001,7 @@
 			(uuid "dca9c29a-ddc2-49c7-9a2c-f1750ad7c71a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_6.3x5.2.step"
+		(model "${KICAD10_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_6.3x5.4.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14898,6 +15074,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "7f78f170-27d2-43ce-992e-a54e43e28ece")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "BME280"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "59f134a9-8305-4ad3-a14c-cda2ba3c9429")
 			(effects
 				(font
 					(size 1 1)
@@ -15230,6 +15419,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "3187e1fc-7a64-4d19-9836-75d2db2c2eed")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "632L3I040M00000"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "287be2dc-7603-4f25-834b-ea9047c56a85")
 			(effects
 				(font
 					(size 1 1)
@@ -15610,6 +15812,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "16571254-a876-4919-9fd0-ed7dc7f9160d")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "ESD2CAN24DBZRQ1"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b3f192e2-0b77-4e1d-823c-5da427298df8")
 			(effects
 				(font
 					(size 1 1)
@@ -16006,6 +16221,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "57385358-9b92-4cca-aa94-91bbd5da72cf")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "TCAN1044VDRQ1"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0a33ebe3-fc86-40a3-b02b-03df98b3dcb6")
 			(effects
 				(font
 					(size 1 1)
@@ -16974,7 +17202,7 @@
 				(pins "1" "2" "3" "4" "5")
 			)
 		)
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.38 1.27)
@@ -17439,6 +17667,7 @@
 				(pins "1")
 			)
 		)
+		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
 			(center 0 0)
@@ -17570,7 +17799,7 @@
 				(pins "1" "2" "3" "4" "5")
 			)
 		)
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start 1.38 1.27)
@@ -17858,7 +18087,7 @@
 				(pins "1" "2" "3" "4")
 			)
 		)
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -1.38 -1.38)
@@ -18402,6 +18631,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e9f25b7c-263c-47ee-bfd1-8dc7be85e77b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "MIC5504-3.3YM5"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5cabd4c9-4afd-4800-9170-6e79148e7602")
 			(effects
 				(font
 					(size 1 1)
@@ -19028,7 +19270,7 @@
 				)
 			)
 		)
-		(attr through_hole)
+		(attr through_hole exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
 			(start -3.87 1.33)
