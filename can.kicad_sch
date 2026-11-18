@@ -2624,7 +2624,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1299c86f-aa1c-4676-b55b-bfd7b1664ba2")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR066"
 			(at 102.87 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -2685,7 +2685,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR065")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -2825,7 +2825,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "17197e79-5207-493b-a2cc-cbbca3b06fac")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR059"
 			(at 71.12 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -2885,7 +2885,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR058")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -2903,7 +2903,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "324ef1c3-6fc3-4d63-bb60-e739c0029db0")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR063"
 			(at 85.09 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -2963,7 +2963,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR062")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -3289,7 +3289,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "450a41c1-9952-4a26-a811-80668e844b3f")
-		(property "Reference" "#PWR055"
+		(property "Reference" "#PWR056"
 			(at 71.12 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -3349,7 +3349,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR055")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -3367,7 +3367,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "484ec5b2-b9f4-4352-861f-97aba18721ac")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR062"
 			(at 85.09 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -3427,7 +3427,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR061")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -3445,7 +3445,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c53b204-0aba-4547-a5ae-1110c8db490d")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR071"
 			(at 156.21 116.84 0)
 			(hide yes)
 			(show_name no)
@@ -3505,7 +3505,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR070")
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -3730,7 +3730,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6d415dc6-c979-4870-bd7e-912855ede9fe")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR061"
 			(at 85.09 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -3790,7 +3790,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR060")
+					(reference "#PWR061")
 					(unit 1)
 				)
 			)
@@ -3808,7 +3808,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "723ff0c0-f18d-4a8f-bb6e-5fd86bbad18e")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR065"
 			(at 102.87 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -3868,7 +3868,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR064")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -3886,7 +3886,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "72a0ecf7-7b7e-49e9-acfc-995d88cd6b10")
-		(property "Reference" "#PWR059"
+		(property "Reference" "#PWR060"
 			(at 85.09 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -3946,7 +3946,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR059")
+					(reference "#PWR060")
 					(unit 1)
 				)
 			)
@@ -3964,7 +3964,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "750aa16b-0743-4301-ae8e-79bbe912ffd5")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR074"
 			(at 182.88 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -4024,7 +4024,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR073")
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -4042,7 +4042,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "757dee07-5d8e-487c-acb4-315db052b02c")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR075"
 			(at 182.88 101.6 0)
 			(hide yes)
 			(show_name no)
@@ -4103,7 +4103,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR074")
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -4121,7 +4121,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80cd0447-0fa4-428e-ac37-16d77d4c8230")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR068"
 			(at 104.14 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -4182,7 +4182,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR067")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -4200,7 +4200,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "84435fa6-2176-4b8e-b78f-750b89e22e6f")
-		(property "Reference" "#PWR053"
+		(property "Reference" "#PWR054"
 			(at 71.12 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -4260,7 +4260,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR053")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -4278,7 +4278,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8b815ac6-e321-4d6e-a354-f8dd9d651c28")
-		(property "Reference" "#PWR056"
+		(property "Reference" "#PWR057"
 			(at 71.12 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -4338,7 +4338,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR056")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -4563,7 +4563,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8f1ef03d-8ea1-4398-8351-2162b16170cc")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR070"
 			(at 130.81 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -4623,7 +4623,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR069")
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -4737,7 +4737,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a15af39d-3e1d-49cf-8f58-45d6400a9a61")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR072"
 			(at 156.21 161.29 0)
 			(hide yes)
 			(show_name no)
@@ -4797,7 +4797,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR071")
+					(reference "#PWR072")
 					(unit 1)
 				)
 			)
@@ -4917,7 +4917,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "a43e3125-cc26-4343-b0cb-056ac8e52676")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR067"
 			(at 102.87 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -4977,7 +4977,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR066")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -4994,7 +4994,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ab40bbc9-21c5-41fb-ba76-a6759adbc689")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR073"
 			(at 182.88 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -5054,7 +5054,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR072")
+					(reference "#PWR073")
 					(unit 1)
 				)
 			)
@@ -5072,7 +5072,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ad1ce1c5-5f3a-407b-87ea-fb6057d83a70")
-		(property "Reference" "#PWR054"
+		(property "Reference" "#PWR055"
 			(at 71.12 59.69 0)
 			(hide yes)
 			(show_name no)
@@ -5132,7 +5132,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR054")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -5343,7 +5343,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c5ca8fe1-cedc-4795-a1b6-27e66d46d2d3")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR058"
 			(at 71.12 140.97 0)
 			(hide yes)
 			(show_name no)
@@ -5403,7 +5403,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR057")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -5951,7 +5951,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "d9a3aefc-afa1-49cd-a3a7-e79a69dc99ca")
-		(property "Reference" "#PWR052"
+		(property "Reference" "#PWR053"
 			(at 53.34 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -6011,7 +6011,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR052")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -6028,7 +6028,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e0eb9b31-a2ea-4cfe-b20b-f6005eac8d70")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR064"
 			(at 102.87 91.44 0)
 			(hide yes)
 			(show_name no)
@@ -6088,7 +6088,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR063")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -6106,7 +6106,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e5e79a58-1df6-42b8-a640-293bd88342c0")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR069"
 			(at 104.14 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -6167,7 +6167,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR068")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -6185,7 +6185,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e6132633-90ea-407f-afce-db5ccc93cb9a")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR052"
 			(at 53.34 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -6245,7 +6245,7 @@
 		(instances
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b/4e72597d-5f14-4a5c-8875-e07f4e1002f7"
-					(reference "#PWR051")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
