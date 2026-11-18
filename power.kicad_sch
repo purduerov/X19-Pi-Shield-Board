@@ -2371,7 +2371,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "47uF"
+		(property "Value" "22u 25V"
 			(at 201.93 93.9799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2382,7 +2382,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1210_3225Metric_Pad1.33x2.70mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 199.0852 96.52 0)
 			(hide yes)
 			(show_name no)
@@ -2415,7 +2415,7 @@
 				)
 			)
 		)
-		(property "Part Number" "CC1210MKX5R6BB476"
+		(property "Part Number" "CC1206KKX5R8BB226"
 			(at 198.12 92.71 0)
 			(hide yes)
 			(show_name no)
