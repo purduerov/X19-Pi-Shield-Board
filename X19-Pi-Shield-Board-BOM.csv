@@ -6,7 +6,7 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 5,Unpolarized capacitor,C,C13,2.2u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1, ,,,CC0603KRX5R6BB225,,,,,,,,
 6,Unpolarized capacitor,C,C10,4.7u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1, ,,,CC0603KRX5R6BB475,,,,,,,,
 7,Unpolarized capacitor,C,C2,10u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1, ,,,CC0603MRX5R6BB106,,,,,,,,
-8,Unpolarized capacitor,C,C18,47uF,C_1210_3225Metric_Pad1.33x2.70mm_HandSolder,1, ,,,CC1210MKX5R6BB476,,,,,,,,
+8,Unpolarized capacitor,C,C18,22u 25V,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,1, ,,,CC1206KKX5R8BB226,,,,,,,,
 9,Unpolarized capacitor,C,C1,100u,CP_Elec_6.3x5.2,1, ,,,,,,,,,,,
 10,,ESD2CAN24DBZRQ1,D1,ESD2CAN24DBZRQ1,SOT-23-3,1, ,ESD2CAN24DBZRQ1,,,,,,,,,,
 11,Light emitting diode,LED,D2 D3 D4 D5 D6,LED,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,5, ,,,,1=K 2=A,,,,,,,
@@ -46,7 +46,7 @@ Project info:
 Schematic:,X19-Pi-Shield-Board
 Variant:,default
 Revision:,
-Date:,2026-11-18_02-10-32
+Date:,2026-11-18_02-12-50
 KiCad Version:,10.0.5-unknown-202607221313~667fa36054~ubuntu25.10.1
 Statistics:
 Component Groups:,38
