@@ -7,36 +7,29 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 6,Unpolarized capacitor,C,C10,4.7u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1, ,,,CC0603KRX5R6BB475,,,,,,,,
 7,Unpolarized capacitor,C,C2,10u,C_0603_1608Metric_Pad1.08x0.95mm_HandSolder,1, ,,,CC0603MRX5R6BB106,,,,,,,,
 8,Unpolarized capacitor,C,C18,22u 25V,C_1206_3216Metric_Pad1.33x1.80mm_HandSolder,1, ,,,CC1206KKX5R8BB226,,,,,,,,
-9,Unpolarized capacitor,C,C1,100u,CP_Elec_6.3x5.2,1, ,,,,,,,,,,,
-10,,ESD2CAN24DBZRQ1,D1,ESD2CAN24DBZRQ1,SOT-23-3,1, ,ESD2CAN24DBZRQ1,,,,,,,,,,
-11,Light emitting diode,LED,D2 D3 D4 D5 D6,LED,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,5, ,,,,1=K 2=A,,,,,,,
-12,"Generic connectable mounting pin connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x03_MountingPin,J7 J8,BM03B-GHS-TBT,JST_GH_BM03B-GHS-TBT_1x03-1MP_P1.25mm_Vertical,2, ,,,,,,,,,,,
-13,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J1 J11,Conn_01x02,CONN_SD-43650-001_02_MOL,2, ,,,,,,,,,,,
-14,"Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x02,J4,Conn_01x02,PinHeader_1x02_P2.54mm_Vertical,1, ,,,,,,,,,,,
-15,"Generic connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x03,J5 J9,Conn_01x03,PinHeader_1x03_P2.54mm_Vertical,2, ,,,,,,,,,,,
-16,"Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x04,J2,Conn_01x04,PinHeader_1x04_P2.54mm_Vertical,1, ,,,,,,,,,,,
-17,"Generic connector, single row, 01x05, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x05,J10,Conn_01x05,PinHeader_1x05_P2.54mm_Vertical,1, ,,,,,,,,,,,
-18,"Generic connector, single row, 01x05, script generated",Conn_01x05_Pin,J6,Conn_01x05_Pin,PinHeader_1x05_P2.54mm_Vertical,1, ,,,,,,,,,,,
-19,Raspberry Pi 4 Model B,Raspberry_Pi_4,J3,Raspberry_Pi_5,PinSocket_2x20_P2.54mm_Vertical,1, ,https://datasheets.raspberrypi.com/rpi4/raspberry-pi-4-datasheet.pdf,,,,,,,,,,
-20,"-0.2A Ic, -40V Vce, Small Signal PNP Transistor, SOT-23",MMBT3906,Q1,MMBT3906,SOT-23,1, ,https://www.onsemi.com/pdf/datasheet/pzt3906-d.pdf,,,1=B 2=E 3=C,,,,,,,PNP
-21,"Resistor, small US symbol",R_Small_US,R14,1m,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1, ,,,,,,,,,,,
-22,"Resistor, US symbol",R_US,R16 R17,62,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2, ,,,RC0603FR-0762RL,,,,,,,,
-23,"Resistor, US symbol",R_US,R9,240,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1, ,,,RC0603FR-07240RL,,,,,,,,
-24,"Resistor, US symbol",R_US,R2 R4 R5 R7,1K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,4, ,,,RC0603FR-071KL,,,,,,,,
-25,"Resistor, US symbol",R_US,R1 R3,2.2K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2, ,,,RC0603FR-072K2L,,,,,,,,
-26,"Resistor, US symbol",R_US,R10 R11,4.7k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2, ,,,RC0603FR-074K7L,,,,,,,,
-27,"Resistor, small US symbol",R_Small_US,R13,4.7k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1, ,,,RC0603FR-074K7L,,,,,,,,
-28,"Resistor, US symbol",R_US,R8 R12 R15,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,3, ,,,RC0603FR-0710KL,,,,,,,,
-29,"Resistor, US symbol",R_US,R6,27K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1, ,,,RC0603FR-0727KL,,,,,,,,
-30,"Push button switch, generic, two pins",SW_Push,SW1,SW_Push,SW_SPST_B3U-1000P,1, ,,,,,,,,,,,
-31,"3-in-1 sensor, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8",BME280,U1,BME280,Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering,1, ,https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme280-ds002.pdf,,,,,,,,,,
-32,,INA237AIDGSR,U3,INA237AIDGSR,TSSOP-10_3x3mm_P0.5mm,1, ,https://www.ti.com/lit/gpn/ina237,,,,,,,,,,
-33,,MCP2518FDT-E_QBB,U5,MCP2518FDT-E/SL,SOIC-14_3.9x8.7mm_P1.27mm,1, ,MCP2518FDT-E/SL,,,,,,,,,,
-34,"300mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, SOT-23",MIC5504-3.3YM5,U4,MIC5504-3.3YM5,SOT-23-5,1, ,http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf,,,,,,,,,,
-35,,STM32C542CCT6,U2,STM32C542CCT6,LQFP-48_7x7mm_P0.5mm,1, ,https://www.st.com/resource/en/datasheet/stm32c542cc.pdf,,,,,,,,,,
-36,,TCAN1044VDRQ1,U6 U7,TCAN1044VDRQ1,SOIC-8_3.9x4.9mm_P1.27mm,2, ,https://www.ti.com/lit/gpn/tcan1044-q1,,,,,,,,,,
-37,"3.3V CMOS SMD Crystal Clock Oscillator, Abracon",ASE-xxxMHz,Y2,632L3I040M00000,Crystal_SMD_3225-4Pin_3.2x2.5mm,1, ,http://www.abracon.com/Oscillators/ASV.pdf,,,,,,,,,,
-38,The sub miniature ECX-32 is a compact SMD Crystal.,ECS-120-18-33-JGN-TR,Y1,ECS-240-8-37B-CKY_TR,Crystal_SMD_2016-4Pin_2.0x1.6mm,1, ,,,ECS-240-8-37B-CKY-TR,,ECS INC,SMD-4 ECX,,Manufacturer recommendations,ECX-32,Good,
+9,Unpolarized capacitor,C,C1,100u,CP_Elec_6.3x5.4,1, ,,,865080343009,,,,,,,,
+10,,ESD2CAN24DBZRQ1,D1,ESD2CAN24DBZRQ1,SOT-23-3,1, ,ESD2CAN24DBZRQ1,,ESD2CAN24DBZRQ1,,,,,,,,
+11,Light emitting diode,LED,D2 D3 D4 D5 D6,LED,LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder,5, ,,,LTST-C190GKT,1=K 2=A,,,,,,,
+12,"Generic connectable mounting pin connector, single row, 01x03, script generated (kicad-library-utils/schlib/autogen/connector/)",Conn_01x03_MountingPin,J7 J8,BM03B-GHS-TBT,JST_GH_BM03B-GHS-TBT_1x03-1MP_P1.25mm_Vertical,2, ,,,BM03B-GHS-TBT,,,,,,,,
+13,"-0.2A Ic, -40V Vce, Small Signal PNP Transistor, SOT-23",MMBT3906,Q1,MMBT3906,SOT-23,1, ,https://www.onsemi.com/pdf/datasheet/pzt3906-d.pdf,,MMBT3906,1=B 2=E 3=C,,,,,,,PNP
+14,"Resistor, small US symbol",R_Small_US,R14,1m,R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,1, ,,,,,,,,,,,
+15,"Resistor, US symbol",R_US,R16 R17,62,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2, ,,,RC0603FR-0762RL,,,,,,,,
+16,"Resistor, US symbol",R_US,R9,240,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1, ,,,RC0603FR-07240RL,,,,,,,,
+17,"Resistor, US symbol",R_US,R2 R4 R5 R7,1K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,4, ,,,RC0603FR-071KL,,,,,,,,
+18,"Resistor, US symbol",R_US,R1 R3,2.2K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2, ,,,RC0603FR-072K2L,,,,,,,,
+19,"Resistor, US symbol",R_US,R10 R11,4.7k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,2, ,,,RC0603FR-074K7L,,,,,,,,
+20,"Resistor, small US symbol",R_Small_US,R13,4.7k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1, ,,,RC0603FR-074K7L,,,,,,,,
+21,"Resistor, US symbol",R_US,R8 R12 R15,10k,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,3, ,,,RC0603FR-0710KL,,,,,,,,
+22,"Resistor, US symbol",R_US,R6,27K,R_0603_1608Metric_Pad0.98x0.95mm_HandSolder,1, ,,,RC0603FR-0727KL,,,,,,,,
+23,"Push button switch, generic, two pins",SW_Push,SW1,SW_Push,SW_SPST_B3U-1000P,1, ,,,,,,,,,,,
+24,"3-in-1 sensor, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8",BME280,U1,BME280,Bosch_LGA-8_2.5x2.5mm_P0.65mm_ClockwisePinNumbering,1, ,https://www.bosch-sensortec.com/media/boschsensortec/downloads/datasheets/bst-bme280-ds002.pdf,,BME280,,,,,,,,
+25,,INA237AIDGSR,U3,INA237AIDGSR,TSSOP-10_3x3mm_P0.5mm,1, ,https://www.ti.com/lit/gpn/ina237,,INA237AIDGSR,,,,,,,,
+26,,MCP2518FDT-E_QBB,U5,MCP2518FDT-E/SL,SOIC-14_3.9x8.7mm_P1.27mm,1, ,MCP2518FDT-E/SL,,MCP2518FDT-E/SL,,,,,,,,
+27,"300mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, SOT-23",MIC5504-3.3YM5,U4,MIC5504-3.3YM5,SOT-23-5,1, ,http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf,,MIC5504-3.3YM5,,,,,,,,
+28,,STM32C542CCT6,U2,STM32C542CCT6,LQFP-48_7x7mm_P0.5mm,1, ,https://www.st.com/resource/en/datasheet/stm32c542cc.pdf,,STM32C542CCT6,,,,,,,,
+29,,TCAN1044VDRQ1,U6 U7,TCAN1044VDRQ1,SOIC-8_3.9x4.9mm_P1.27mm,2, ,https://www.ti.com/lit/gpn/tcan1044-q1,,TCAN1044VDRQ1,,,,,,,,
+30,"3.3V CMOS SMD Crystal Clock Oscillator, Abracon",ASE-xxxMHz,Y2,632L3I040M00000,Crystal_SMD_3225-4Pin_3.2x2.5mm,1, ,http://www.abracon.com/Oscillators/ASV.pdf,,632L3I040M00000,,,,,,,,
+31,The sub miniature ECX-32 is a compact SMD Crystal.,ECS-120-18-33-JGN-TR,Y1,ECS-240-8-37B-CKY_TR,Crystal_SMD_2016-4Pin_2.0x1.6mm,1, ,,,ECS-240-8-37B-CKY-TR,,ECS INC,SMD-4 ECX,,Manufacturer recommendations,ECX-32,Good,
 
 
 
@@ -46,11 +39,11 @@ Project info:
 Schematic:,X19-Pi-Shield-Board
 Variant:,default
 Revision:,
-Date:,2026-11-18_02-12-50
+Date:,2026-11-18_07-21-45
 KiCad Version:,10.0.5-unknown-202607221313~667fa36054~ubuntu25.10.1
 Statistics:
-Component Groups:,38
-Component Count:,72
-Fitted Components:,72
+Component Groups:,31
+Component Count:,63
+Fitted Components:,63
 Number of PCBs:,1
-Total Components:,72
+Total Components:,63
