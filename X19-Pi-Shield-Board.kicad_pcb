@@ -238,6 +238,19 @@
 				)
 			)
 		)
+		(property "Part Number" "RC0603FR-071KL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "68bf2277-f1fd-4a78-87a0-1a15d0b01bd4")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/09dc55eb-502f-4c1e-b36b-c49f2634a9cc")
 		(sheetname "/")
@@ -403,6 +416,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "29ccd1e0-db99-43df-ba57-4319e14a79ae")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "RC0603FR-0710KL"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ccdbf35-2449-484d-b591-65342945db39")
 			(effects
 				(font
 					(size 1 1)
@@ -1800,6 +1826,19 @@
 				)
 			)
 		)
+		(property "Part Number" "RC0603FR-0727KL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b843122e-a01c-4ee3-b37a-3750cd6a574f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/b5d0b18d-9e9a-40ab-b75b-13e0ef1ee8a4/d90a3c29-65e9-4ea2-845f-4b00b3eea1ea")
 		(sheetname "/MCU/")
@@ -1972,6 +2011,19 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX7R8BB104"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "512b15ea-6080-4564-aaa6-cb038ad6eb47")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/4e72597d-5f14-4a5c-8875-e07f4e1002f7/a3a176c7-1efb-4284-8d4c-22b6e5de4c3f")
 		(sheetname "/CAN/")
@@ -2137,6 +2189,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3a79e06a-e18f-4e8a-98d4-8254b98ce2ec")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "CC0603KRX7R8BB104"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7bf0f44c-7339-48e0-a662-071c0824ba15")
 			(effects
 				(font
 					(size 1 1)
@@ -2821,6 +2886,19 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX7R8BB104"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "23a7d592-ca4e-43f0-a3fb-22ff381dd713")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/4e72597d-5f14-4a5c-8875-e07f4e1002f7/c68e6c1d-2ad5-4175-8cf6-aab18bd06574")
 		(sheetname "/CAN/")
@@ -3246,6 +3324,19 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX7R8BB104"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5028039b-8eb0-43f5-963d-d1a73ca3eccb")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/b5d0b18d-9e9a-40ab-b75b-13e0ef1ee8a4/1bfb6695-2224-4976-a0b5-8a59b40b15dd")
 		(sheetname "/MCU/")
@@ -3654,6 +3745,19 @@
 				)
 			)
 		)
+		(property "Part Number" "CC1210MKX5R6BB476"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b8e7ea85-54cf-4d5d-a383-53858b2269a7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6e1cf58b-0177-4d78-b4d6-5b18f6615062/10a3bec6-7dca-4cfd-b35a-991f459b5d11")
 		(sheetname "/Power/")
@@ -3819,6 +3923,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ae806fa7-9e81-4b71-99df-a9f18d300b87")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "CC0603KRX7R8BB104"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "842bcea8-887f-4138-b684-23018f588507")
 			(effects
 				(font
 					(size 1 1)
@@ -3998,6 +4115,19 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX5R6BB475"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "34730d0c-7f75-4e17-9d02-471f81ec435b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/b5d0b18d-9e9a-40ab-b75b-13e0ef1ee8a4/311ac531-a79d-4ce6-9aee-a14fa394df96")
 		(sheetname "/MCU/")
@@ -4170,6 +4300,19 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX5R6BB105"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "cbd12605-a89b-492d-a721-85399b7f58fe")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6e1cf58b-0177-4d78-b4d6-5b18f6615062/a6db965c-88fc-4624-bdb5-ed3b0cfbf31b")
 		(sheetname "/Power/")
@@ -4335,6 +4478,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "ee027dcb-3cd4-4b80-9c89-ca9d6ac8f156")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "RC0603FR-072K2L"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "da32a5fa-b702-48f9-99e6-926472c7a14e")
 			(effects
 				(font
 					(size 1 1)
@@ -5043,6 +5199,19 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX7R8BB104"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "6ba44f36-c05d-4855-80ff-13f1ca88d608")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/4e72597d-5f14-4a5c-8875-e07f4e1002f7/655fa963-81ca-4bf6-92d5-c2b13f9281b0")
 		(sheetname "/CAN/")
@@ -5351,6 +5520,19 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX7R8BB104"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8c0b0f8e-4201-4171-a96a-7869a807488a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/4e72597d-5f14-4a5c-8875-e07f4e1002f7/cc7fd987-9db4-4107-bded-91136e5f21a7")
 		(sheetname "/CAN/")
@@ -5523,6 +5705,19 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX7R8BB104"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "140423e7-a5df-4394-b152-19d7bfe90d29")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/b5d0b18d-9e9a-40ab-b75b-13e0ef1ee8a4/3ee58587-f199-4437-aa6f-c0a5f339472a")
 		(sheetname "/MCU/")
@@ -5688,6 +5883,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "903479de-2e8f-4fac-8a85-c9439966934a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "RC0603FR-074K7L"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "4abeaea9-e9ba-4f3b-8f8f-a833f83cf1ff")
 			(effects
 				(font
 					(size 1 1)
@@ -6003,6 +6211,19 @@
 				)
 			)
 		)
+		(property "Part Number" "RC0603FR-072K2L"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "913f5c3f-a778-41f2-9dac-dec5e6d9563a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/230c0d5e-7f37-4cbe-a562-b97817eff629")
 		(sheetname "/")
@@ -6168,6 +6389,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e4a393f3-6b50-4634-8fb8-e7a3ed3be89a")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "RC0603FR-0762RL"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b26d90d1-97ed-4209-8e46-c7008fcce096")
 			(effects
 				(font
 					(size 1 1)
@@ -6519,6 +6753,19 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX7R8BB104"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "91f7504a-b91f-441b-bac7-305683f85b82")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/7cc077e9-d595-4418-9e42-7ffb83a274cf")
 		(sheetname "/")
@@ -6807,6 +7054,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "70cbbd84-cbfc-4791-a9c6-3f9233453f92")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "CC0603KRX5R6BB105"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "aefc230c-84ef-43e7-856e-4d509c078a6d")
 			(effects
 				(font
 					(size 1 1)
@@ -7448,6 +7708,19 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX7R8BB104"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "66d7b4df-9978-48a7-946c-a83cf22b1369")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/b5d0b18d-9e9a-40ab-b75b-13e0ef1ee8a4/c5371578-d5ed-46d3-b816-779d35b71999")
 		(sheetname "/MCU/")
@@ -7613,6 +7886,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4371ed8e-a58f-48d0-aa31-273458e02b69")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "RC0603FR-071KL"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "491cd622-17c2-4202-8f3f-7798c74ea10c")
 			(effects
 				(font
 					(size 1 1)
@@ -7792,6 +8078,19 @@
 				)
 			)
 		)
+		(property "Part Number" "RC0603FR-0710KL"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "62b1fbc1-bc29-4b52-b10c-8aa1e756dfe5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/b5d0b18d-9e9a-40ab-b75b-13e0ef1ee8a4/6d42877e-c1ec-40b8-9d28-6459d229e4b0")
 		(sheetname "/MCU/")
@@ -7944,6 +8243,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "e116bb6f-4f13-48dc-9172-ba71bc1eb85c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "RC0603FR-071KL"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "1fe2bb7b-19fc-4e6e-be94-d9102f1c93ef")
 			(effects
 				(font
 					(size 1 1)
@@ -9316,6 +9628,19 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603JRNPO9BN100"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "b1c8bcea-3dfa-46ac-8d24-391d585eece0")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/b5d0b18d-9e9a-40ab-b75b-13e0ef1ee8a4/cdc81df1-eb5a-40fd-9125-4392cc1e8a4f")
 		(sheetname "/MCU/")
@@ -9488,6 +9813,19 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX7R8BB104"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "0a0ac4ac-e7d0-49ad-afad-a680e5292be1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6e1cf58b-0177-4d78-b4d6-5b18f6615062/07903ae2-a2ab-4e2c-b31b-72486ae64e1b")
 		(sheetname "/Power/")
@@ -9653,6 +9991,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "f5d605c8-3331-4669-bfa8-c3daa2843364")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "CC0603KRX7R8BB104"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "47ec9a90-644c-48c1-918b-fb07cdc5cad9")
 			(effects
 				(font
 					(size 1 1)
@@ -10098,6 +10449,19 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX7R8BB104"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "340d0d79-4bca-4ae4-8f71-7e815fd69bf7")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/b5d0b18d-9e9a-40ab-b75b-13e0ef1ee8a4/ef7a03a0-b7c7-4067-baac-8e16eb66cfa3")
 		(sheetname "/MCU/")
@@ -10263,6 +10627,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "40a8f4e3-85a8-4aa5-a2ad-26db2aed92e3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "CC0603KRX5R6BB105"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f6cb7770-4b4f-4cbe-b47d-6b78b475ac73")
 			(effects
 				(font
 					(size 1 1)
@@ -10442,6 +10819,19 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX7R8BB104"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "20d0e7ad-fab6-4c5e-a713-067ffe8bfc1b")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/6e1cf58b-0177-4d78-b4d6-5b18f6615062/0fda1b09-74ee-4acd-89aa-7874045728eb")
 		(sheetname "/Power/")
@@ -10601,6 +10991,19 @@
 				)
 			)
 		)
+		(property "Part Number" "RC0603FR-07240RL"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "f3d569ac-01e6-4005-92be-f1aaaf25150c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/b5d0b18d-9e9a-40ab-b75b-13e0ef1ee8a4/0d29c830-6bd6-47e6-ac92-e71e0b7d949b")
 		(sheetname "/MCU/")
@@ -10753,6 +11156,19 @@
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "91c868a8-3ab6-4301-87ac-732979141fe3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "RC0603FR-071KL"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "900a4c36-4129-4007-bf48-ca83f3d08b9c")
 			(effects
 				(font
 					(size 1 1)
@@ -11636,6 +12052,19 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX5R6BB225"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9acb8aa4-9d45-461d-9ebe-e12d3015b1a3")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/b5d0b18d-9e9a-40ab-b75b-13e0ef1ee8a4/b793e22f-b652-4666-b781-c4b3ecf72f28")
 		(sheetname "/MCU/")
@@ -11739,7 +12168,7 @@
 		(descr "Ultra-small-sized Tactile Switch with High Contact Reliability, Top-actuated Model, without Ground Terminal, without Boss")
 		(tags "Tactile Switch")
 		(property "Reference" "SW1"
-			(at 0 0 -270)
+			(at 0 0 90)
 			(layer "B.SilkS")
 			(uuid "e0428a25-0caf-4d01-b8cb-e7c903b18859")
 			(effects
@@ -13108,6 +13537,19 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX7R9BB472"
+			(at 0 0 270)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8ca8d06f-8bbb-4c1a-b6df-cd163f4be263")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/4e72597d-5f14-4a5c-8875-e07f4e1002f7/33595559-773e-4baf-8162-480815da3b53")
 		(sheetname "/CAN/")
@@ -13273,6 +13715,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cfb39186-2cda-4c66-a864-84182c0beb5f")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "CC0603JRNPO9BN100"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "383553fe-a1ee-47c9-ad5b-4085171da457")
 			(effects
 				(font
 					(size 1 1)
@@ -13804,6 +14259,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e7444a4a-890e-4ddf-b46d-4f42b659cae9")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "RC0603FR-074K7L"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5e9b70ba-38a0-4320-9fc4-f9bf2949f56f")
 			(effects
 				(font
 					(size 1 1)
@@ -14963,6 +15431,19 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX7R8BB104"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "bac75aec-a35a-4e93-9290-1bf64e194d11")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/4e72597d-5f14-4a5c-8875-e07f4e1002f7/b1ae41c5-05c8-4bb2-9bc0-7de81a105044")
 		(sheetname "/CAN/")
@@ -15927,6 +16408,19 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX7R8BB104"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dc09e679-7188-4586-b833-b92d090844ac")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "C_*")
 		(path "/72385d22-be82-40ec-a32a-c3e6a72ea07a")
 		(sheetname "/")
@@ -16099,6 +16593,19 @@
 				)
 			)
 		)
+		(property "Part Number" "RC0603FR-0762RL"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "9e28c59a-9ffd-4fa6-8396-96a508349c52")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property ki_fp_filters "R_*")
 		(path "/4e72597d-5f14-4a5c-8875-e07f4e1002f7/40db0c23-8bb5-4bd5-9de2-df024c9c610f")
 		(sheetname "/CAN/")
@@ -16264,6 +16771,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "305f630d-1930-4521-910c-198f71b17856")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "CC0603MRX5R6BB106"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "73c1f4e3-c05b-4d4f-aec3-217ddc63d660")
 			(effects
 				(font
 					(size 1 1)
@@ -16724,6 +17244,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "bf7617d3-03f9-44ac-bc5e-687af911819c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "RC0603FR-0710KL"
+			(at 0 0 90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "7c78d300-a945-4cbb-b565-acd6ab123692")
 			(effects
 				(font
 					(size 1 1)
@@ -17668,6 +18201,19 @@
 				)
 			)
 		)
+		(property "Part Number" "ECS-240-8-37B-CKY-TR"
+			(at 0 0 180)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "dc702ca5-b35d-4004-856a-401b5fb38d08")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(path "/b5d0b18d-9e9a-40ab-b75b-13e0ef1ee8a4/09c03f32-72f2-4f1e-921f-8a601bd9978b")
 		(sheetname "/MCU/")
 		(sheetfile "mcu.kicad_sch")
@@ -18271,6 +18817,19 @@
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "cd765209-a87b-447d-aa29-53d99f8f06fd")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(property "Part Number" "RC0603FR-074K7L"
+			(at 0 0 0)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "5555aac3-e31a-4121-a3ed-e6a8de083c52")
 			(effects
 				(font
 					(size 1 1)

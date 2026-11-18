@@ -581,7 +581,7 @@
       "method": 0,
       "sort_order": 0
     },
-    "bom_export_filename": "${PROJECTNAME}.csv",
+    "bom_export_filename": "bom.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
@@ -697,6 +697,24 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "digikey",
+          "name": "digikey",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Part Number",
+          "name": "Part Number",
+          "show": true
         }
       ],
       "filter_string": "",
@@ -747,7 +765,7 @@
         "uuid": "00000000-0000-0000-0000-000060e6118b"
       }
     ],
-    "used_designators": "JP1,#FLG1,CR1-3,IC1,H1-4,R1-17,R25-28,R30,R33,TP1-11,Y1-3,D1-6,#PWR1-81,#PWR100,#PWR112,#PWR116,#PWR121,3.3V1,GND1,J1-15,5.1V1,5.1V_RAW1,SW1,U1-7,C1-29,Q1-2,SOF1",
+    "used_designators": "JP1,#FLG1,CR1-3,IC1,H1-4,R1-17,R25-28,R30,R33,TP1-11,Y1-3,D1-6,#PWR1-81,#PWR100,#PWR112,#PWR116,#PWR121,3.3V1,GND1,J1-15,5.1V1,5.1V_RAW1,Q1-2,C1-29,U1-7,SW1,SOF1",
     "variants": []
   },
   "sheets": [

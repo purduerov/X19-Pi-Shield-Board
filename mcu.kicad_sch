@@ -5159,6 +5159,17 @@
 				(justify bottom)
 			)
 		)
+		(property "Part Number" "ECS-240-8-37B-CKY-TR"
+			(at 232.41 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "MF" "ECS INC"
 			(at 232.41 78.74 0)
 			(hide yes)
@@ -5484,6 +5495,17 @@
 				)
 			)
 		)
+		(property "Part Number" "RC0603FR-07240RL"
+			(at 123.19 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a907db18-e87d-4dc0-a638-316e0b0e4ec9")
 		)
@@ -5727,6 +5749,17 @@
 				)
 			)
 		)
+		(property "Part Number" "RC0603FR-071KL"
+			(at 78.74 154.94 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "9cc47d32-cce3-4b1f-a305-339b4e3d6b68")
 		)
@@ -5798,6 +5831,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 162.56 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "CC0603KRX7R8BB104"
 			(at 162.56 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -5891,6 +5935,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 179.07 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "RC0603FR-0710KL"
 			(at 179.07 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -6147,6 +6202,17 @@
 				)
 			)
 		)
+		(property "Part Number" "RC0603FR-074K7L"
+			(at 127 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "digikey" ""
 			(at 127 44.45 0)
 			(hide yes)
@@ -6239,6 +6305,17 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX5R6BB475"
+			(at 191.77 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "digikey" ""
 			(at 191.77 36.83 0)
 			(hide yes)
@@ -6321,6 +6398,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 182.88 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "CC0603KRX7R8BB104"
 			(at 182.88 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -6809,6 +6897,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 115.57 48.26 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "RC0603FR-0710KL"
 			(at 115.57 48.26 0)
 			(hide yes)
 			(show_name no)
@@ -7437,6 +7536,17 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603JRNPO9BN100"
+			(at 209.55 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "digikey" ""
 			(at 209.55 81.28 0)
 			(hide yes)
@@ -7752,6 +7862,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 212.09 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "CC0603KRX5R6BB225"
 			(at 212.09 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -8191,6 +8312,17 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX7R8BB104"
+			(at 179.07 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "digikey" ""
 			(at 179.07 133.35 0)
 			(hide yes)
@@ -8515,6 +8647,17 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603JRNPO9BN100"
+			(at 260.35 81.28 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "digikey" ""
 			(at 260.35 81.28 0)
 			(hide yes)
@@ -8685,6 +8828,17 @@
 				)
 			)
 		)
+		(property "Part Number" "RC0603FR-0727KL"
+			(at 88.9 151.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c1f8a127-dae8-4845-b8e3-261acd825f4d")
 		)
@@ -8756,6 +8910,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 201.93 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "CC0603KRX7R8BB104"
 			(at 201.93 36.83 0)
 			(hide yes)
 			(show_name no)
@@ -8858,6 +9023,17 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX7R8BB104"
+			(at 172.72 36.83 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "digikey" ""
 			(at 172.72 36.83 0)
 			(hide yes)
@@ -8939,6 +9115,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 134.62 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "RC0603FR-074K7L"
 			(at 134.62 44.45 0)
 			(hide yes)
 			(show_name no)
@@ -9110,6 +9297,17 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
+			(at 109.22 167.64 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "RC0603FR-071KL"
 			(at 109.22 167.64 0)
 			(hide yes)
 			(show_name no)

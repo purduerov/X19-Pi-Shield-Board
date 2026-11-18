@@ -3022,6 +3022,17 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX7R9BB472"
+			(at 179.07 95.25 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "digikey" ""
 			(at 179.07 95.25 90)
 			(hide yes)
@@ -3115,6 +3126,17 @@
 				)
 			)
 		)
+		(property "Part Number" "RC0603FR-0762RL"
+			(at 170.18 91.44 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "digikey" ""
 			(at 170.18 91.44 0)
 			(hide yes)
@@ -3198,6 +3220,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 43.18 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "CC0603KRX5R6BB105"
 			(at 43.18 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -3534,6 +3567,17 @@
 				)
 			)
 		)
+		(property "Part Number" "RC0603FR-0710KL"
+			(at 130.81 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "digikey" ""
 			(at 130.81 33.02 0)
 			(hide yes)
@@ -3616,6 +3660,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 71.12 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "CC0603KRX7R8BB104"
 			(at 71.12 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -4345,6 +4400,17 @@
 				)
 			)
 		)
+		(property "Part Number" "RC0603FR-0762RL"
+			(at 170.18 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "digikey" ""
 			(at 170.18 99.06 0)
 			(hide yes)
@@ -4427,6 +4493,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 85.09 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "CC0603KRX7R8BB104"
 			(at 85.09 97.79 0)
 			(hide yes)
 			(show_name no)
@@ -4770,6 +4847,17 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX7R8BB104"
+			(at 85.09 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "digikey" ""
 			(at 85.09 140.97 0)
 			(hide yes)
@@ -5094,6 +5182,17 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX7R8BB104"
+			(at 71.12 140.97 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "digikey" ""
 			(at 71.12 140.97 0)
 			(hide yes)
@@ -5355,6 +5454,17 @@
 				)
 			)
 		)
+		(property "Part Number" "CC0603KRX7R8BB104"
+			(at 170.18 46.99 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "digikey" ""
 			(at 170.18 46.99 0)
 			(hide yes)
@@ -5529,6 +5639,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 53.34 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Part Number" "CC0603KRX7R8BB104"
 			(at 53.34 38.1 0)
 			(hide yes)
 			(show_name no)
