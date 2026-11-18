@@ -3259,7 +3259,7 @@
 				)
 			)
 		)
-		(property "Footprint" "rov_conn_436500200:CONN_SD-43650-001_02_MOL"
+		(property "Footprint" "Connector_Molex:Molex_Micro-Fit_3.0_43650-0200_1x02_P3.00mm_Horizontal"
 			(at 175.26 91.44 0)
 			(hide yes)
 			(show_name no)
