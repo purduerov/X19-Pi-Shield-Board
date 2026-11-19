@@ -1090,7 +1090,7 @@
 					)
 				)
 			)
-			(property "Value" "TCAN1044VDRQ1"
+			(property "Value" "TCAN1044AEVDRQ1"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -1112,7 +1112,7 @@
 					)
 				)
 			)
-			(property "Datasheet" "https://www.ti.com/lit/gpn/tcan1044-q1"
+			(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tcan1044aev-q1.pdf"
 				(at 0 0 0)
 				(show_name no)
 				(do_not_autoplace no)
@@ -2713,7 +2713,7 @@
 				)
 			)
 		)
-		(property "Value" "TCAN1044VDRQ1"
+		(property "Value" "TCAN1044AEVDRQ1"
 			(at 133.35 124.46 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2735,7 +2735,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/gpn/tcan1044-q1"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tcan1044aev-q1.pdf"
 			(at 111.76 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -2769,7 +2769,7 @@
 				)
 			)
 		)
-		(property "Part Number" "TCAN1044VDRQ1"
+		(property "Part Number" "TCAN1044AEVDRQ1"
 			(at 111.76 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -6273,7 +6273,7 @@
 				)
 			)
 		)
-		(property "Value" "TCAN1044VDRQ1"
+		(property "Value" "TCAN1044AEVDRQ1"
 			(at 133.35 80.01 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6295,7 +6295,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/gpn/tcan1044-q1"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tcan1044aev-q1.pdf"
 			(at 111.76 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -6329,7 +6329,7 @@
 				)
 			)
 		)
-		(property "Part Number" "TCAN1044VDRQ1"
+		(property "Part Number" "TCAN1044AEVDRQ1"
 			(at 111.76 86.36 0)
 			(hide yes)
 			(show_name no)

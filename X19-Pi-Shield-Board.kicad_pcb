@@ -13156,7 +13156,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TCAN1044VDRQ1"
+		(property "Value" "TCAN1044AEVDRQ1"
 			(at 0 3.4 180)
 			(layer "F.Fab")
 			(uuid "1db74c21-341d-4393-a80a-08f2a5d03ad7")
@@ -13167,7 +13167,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/gpn/tcan1044-q1"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tcan1044aev-q1.pdf"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -13214,7 +13214,7 @@
 				)
 			)
 		)
-		(property "Part Number" "TCAN1044VDRQ1"
+		(property "Part Number" "TCAN1044AEVDRQ1"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -17131,7 +17131,7 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "TCAN1044VDRQ1"
+		(property "Value" "TCAN1044AEVDRQ1"
 			(at 0 3.4 180)
 			(layer "F.Fab")
 			(uuid "72fd008c-44b6-4267-9f42-885436626a85")
@@ -17142,7 +17142,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://www.ti.com/lit/gpn/tcan1044-q1"
+		(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tcan1044aev-q1.pdf"
 			(at 0 0 180)
 			(layer "F.Fab")
 			(hide yes)
@@ -17189,7 +17189,7 @@
 				)
 			)
 		)
-		(property "Part Number" "TCAN1044VDRQ1"
+		(property "Part Number" "TCAN1044AEVDRQ1"
 			(at 0 0 180)
 			(unlocked yes)
 			(layer "F.Fab")
