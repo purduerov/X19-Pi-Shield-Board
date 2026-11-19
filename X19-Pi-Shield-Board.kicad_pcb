@@ -6683,6 +6683,19 @@
 				)
 			)
 		)
+		(property "Part Number" "PCS1206FR0010ET"
+			(at 0 0 -90)
+			(unlocked yes)
+			(layer "F.Fab")
+			(hide yes)
+			(uuid "8fa43878-631f-4c6f-8990-e30d6f34272c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
 		(property "Datasheet" ""
 			(at 0 0 90)
 			(layer "F.Fab")

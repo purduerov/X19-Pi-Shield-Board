@@ -3362,6 +3362,17 @@
 				(justify right)
 			)
 		)
+		(property "Part Number" "PCS1206FR0010ET"
+			(at 146.05 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 146.05 86.36 0)
 			(hide yes)
