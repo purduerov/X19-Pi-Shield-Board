@@ -3721,10 +3721,6 @@
 		(uuid "1079f853-7879-4113-ae8c-d7d78545bad8")
 	)
 	(no_connect
-		(at 95.25 33.02)
-		(uuid "180fc19f-6933-477d-b060-e773aa7092e5")
-	)
-	(no_connect
 		(at 29.21 66.04)
 		(uuid "19b33236-0035-45b9-bc7d-ee54d2d3ec63")
 	)
@@ -4124,6 +4120,16 @@
 	)
 	(wire
 		(pts
+			(xy 96.52 20.32) (xy 96.52 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "894e13e4-baf7-4f6a-badc-51390c09ddfa")
+	)
+	(wire
+		(pts
 			(xy 137.16 34.29) (xy 137.16 39.37)
 		)
 		(stroke
@@ -4141,6 +4147,16 @@
 			(type default)
 		)
 		(uuid "8b8d2d66-07df-4697-a55b-1e17e404334d")
+	)
+	(wire
+		(pts
+			(xy 95.25 33.02) (xy 96.52 33.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "912fd16f-23fb-400c-b5b9-9d61d4365e74")
 	)
 	(wire
 		(pts
@@ -6448,6 +6464,84 @@
 			(project "X19-Pi-Shield-Board"
 				(path "/00000000-0000-0000-0000-000060e6118b"
 					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:+3.3V")
+		(at 96.52 20.32 0)
+		(mirror y)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "54a24db6-32b6-4ec0-9aba-fdc405bad556")
+		(property "Reference" "#PWR076"
+			(at 96.52 24.13 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+3.3V_PI"
+			(at 97.028 16.764 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.016 1.016)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 96.52 20.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 96.52 20.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
+			(at 96.52 20.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "fc09e1fb-fd30-4d39-933c-c3d631d5270a")
+		)
+		(instances
+			(project "X19-Pi-Shield-Board"
+				(path "/00000000-0000-0000-0000-000060e6118b"
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)

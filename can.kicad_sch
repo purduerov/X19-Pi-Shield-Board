@@ -4574,7 +4574,7 @@
 				)
 			)
 		)
-		(property "Value" "+3.3V"
+		(property "Value" "+3.3V_PI"
 			(at 131.318 24.384 0)
 			(show_name no)
 			(do_not_autoplace no)
