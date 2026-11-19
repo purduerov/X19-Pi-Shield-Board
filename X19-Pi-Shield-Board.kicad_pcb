@@ -21109,7 +21109,7 @@
 		(layer "Edge.Cuts")
 		(uuid "66e74268-1b5a-436c-869d-67dd9fa471bd")
 	)
-	(gr_text "X19 Pi Shield\nArunima Garg\nSam Nadol, Nick Zhang,\nFrancis Hasin, Lucas Mauser"
+	(gr_text "X19 Pi Shield\nArunima Garg\nNick Zhang, Sam Nadol,\nFrancis Hasin, Lucas Mauser"
 		(at 144.65 97.56 45)
 		(layer "F.SilkS")
 		(uuid "87a3f394-2300-4a1c-9c09-a4795e032bf5")
