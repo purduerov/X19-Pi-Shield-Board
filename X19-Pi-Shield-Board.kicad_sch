@@ -5,7 +5,7 @@
 	(uuid "00000000-0000-0000-0000-000060e6118b")
 	(paper "A4")
 	(title_block
-		(title "Purdue ROV Pi Shield Board")
+		(title "X19-Pi-Shield-Board")
 		(company "Purdue ROV")
 	)
 	(lib_symbols
