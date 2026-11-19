@@ -30,7 +30,7 @@ Row,Description,Part,References,Value,Footprint,Quantity Per PCB,Status,Datashee
 29,,MCP2518FDT-E_QBB,U5,MCP2518FDT-E/SL,SOIC-14_3.9x8.7mm_P1.27mm,1, ,MCP2518FDT-E/SL,,MCP2518FDT-E/SL,,,,,,,,
 30,"300mA Low-dropout Voltage Regulator, Vout 3.3V, Vin up to 5.5V, SOT-23",MIC5504-3.3YM5,U4,MIC5504-3.3YM5,SOT-23-5,1, ,http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550X.pdf,,MIC5504-3.3YM5-TR,,,,,,,,
 31,,STM32C542CCT6,U2,STM32C542CCT6,LQFP-48_7x7mm_P0.5mm,1, ,https://www.st.com/resource/en/datasheet/stm32c542cc.pdf,,STM32C542CCT6,,,,,,,,
-32,,TCAN1044VDRQ1,U6 U7,TCAN1044VDRQ1,SOIC-8_3.9x4.9mm_P1.27mm,2, ,https://www.ti.com/lit/gpn/tcan1044-q1,,TCAN1044VDRQ1,,,,,,,,
+32,,TCAN1044VDRQ1,U6 U7,TCAN1044AEVDRQ1,SOIC-8_3.9x4.9mm_P1.27mm,2, ,https://www.ti.com/lit/ds/symlink/tcan1044aev-q1.pdf,,TCAN1044AEVDRQ1,,,,,,,,
 33,"3.3V CMOS SMD Crystal Clock Oscillator, Abracon",ASE-xxxMHz,Y2,632L3I040M00000,Crystal_SMD_3225-4Pin_3.2x2.5mm,1, ,http://www.abracon.com/Oscillators/ASV.pdf,,632L3I040M00000,,,,,,,,
 34,The sub miniature ECX-32 is a compact SMD Crystal.,ECS-120-18-33-JGN-TR,Y1,ECS-240-8-37B-CKY_TR,Crystal_SMD_2016-4Pin_2.0x1.6mm,1, ,,,ECS-240-8-37B-CKY-TR,,ECS INC,SMD-4 ECX,,Manufacturer recommendations,ECX-32,Good,
 
@@ -42,7 +42,7 @@ Project info:
 Schematic:,X19-Pi-Shield-Board
 Variant:,default
 Revision:,
-Date:,2026-11-19_01-33-06
+Date:,2026-11-19_20-09-22
 KiCad Version:,10.0.5-unknown-202607221313~667fa36054~ubuntu25.10.1
 Statistics:
 Component Groups:,34
